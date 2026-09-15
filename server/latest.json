@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "0.0.0",
-  "released": "",
-  "notes": "",
-  "url": "",
-  "size": 0,
-  "sha256": ""
+  "version": "1.0.0",
+  "released": "2026-09-16",
+  "notes": "First release. The Store page now edits one product at a time in a window over the list, the way the terminal's own operator panel does.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.0.0/RapTech-Server.exe",
+  "size": 14355968,
+  "sha256": "4ccebb252fb5350cfd0ece18c48891c9d3638529be7b341623b61b805c981b17"
 }
