@@ -1,9 +1,12 @@
 {
   "product": "client",
-  "version": "0.0.0",
-  "released": "",
-  "notes": "",
-  "url": "",
-  "size": 0,
-  "sha256": ""
+  "version": "1.0.0",
+  "released": "2026-09-16",
+  "notes": "First release. The pooling-coin countdown, its filling bar and Add now now live on the overlay card, so a customer inside a fullscreen game can see and reach them.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.0.0/RapTech.exe",
+  "size": 13709824,
+  "sha256": "ca9fb3db3cd460558207769e7aa9f3da4648d17ba4ebfaaef52e2cb26f71fcba",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.0.0/systemRunTime.exe",
+  "helperSize": 3292160,
+  "helperSha256": "7dad6281b6f1151d7c30fdf82d41b9d9fd767e713bac67d004103814cfcfd2f2"
 }
