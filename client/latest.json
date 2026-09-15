@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "released": "2026-09-16",
-  "notes": "First release. The pooling-coin countdown, its filling bar and Add now now live on the overlay card, so a customer inside a fullscreen game can see and reach them.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.0.0/RapTech.exe",
-  "size": 13709824,
-  "sha256": "ca9fb3db3cd460558207769e7aa9f3da4648d17ba4ebfaaef52e2cb26f71fcba",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.0.0/systemRunTime.exe",
+  "notes": "Fixes the lock screen saying nothing when a coin goes in. On a shop that pools coins, the insert-coin screen now shows what is on the meter, what it is worth so far, the countdown and Add now.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.0.1/RapTech.exe",
+  "size": 13711872,
+  "sha256": "7c686741455b8bdbac010b3979db976771e1db4104a6f273b7030d1c988f7058",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.0.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "7dad6281b6f1151d7c30fdf82d41b9d9fd767e713bac67d004103814cfcfd2f2"
+  "helperSha256": "8678942b13aaa1ab0c9033652af7dae0446e11f11f71ecb02e8ecbd9965b3331"
 }
