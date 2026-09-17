@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "released": "2026-09-18",
-  "notes": "Path shortcuts: write a folder down once on the Games page - %GAMES% for D:\\Games - and use it in every game's program, working folder, extras and save folders. One row to change when the games move to a different disk, instead of every game. Windows' own variables go on working as before, and a real Windows variable of the same name still wins, so a machine laid out differently can override the shop. Launch arguments now understand variables too, and every path box shows what it comes to on this computer.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.3.0/RapTech.exe",
-  "size": 13798912,
-  "sha256": "4da972cabfd1441bdd288c20146af1c97f86869508e3d100b9eda83178555a68",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.3.0/systemRunTime.exe",
+  "notes": "Fixes a game added from a staff account's own desktop being unopenable by customers. A folder like C:\\Users\\Administrator is readable only by that Windows account, so the terminal was refused before the game was reached - and it reported this as the game being gone, which sent staff looking for a file that was still there. It now says the game cannot be opened on this computer, and the Games page warns about such a path as soon as it is added, naming the account and what to do. Browse and dropping a shortcut now also write the path using the variable for the folder it came from - %PUBLIC%\\Desktop\\... - so a game added once works in every Windows account and on every machine.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.3.1/RapTech.exe",
+  "size": 13805568,
+  "sha256": "b88480c270c5a14c8eb2a8231239a163468a9290e77ee4797f868ee478a83a40",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.3.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "5a11b86bc93dbe142fce01fefc84f0bb5eb310e33e33c3bd3ac66f4773850725"
+  "helperSha256": "80a4f0bed178eacf7b1a0eaf3554fa5d14560adfc6712fb3a574309cc96fe473"
 }
