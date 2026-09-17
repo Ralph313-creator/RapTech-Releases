@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "released": "2026-09-18",
-  "notes": "Game and save paths now correct themselves. Browse, dragging a shortcut on, and picking a save folder all rewrite what they got to use the Windows variable for the folder it came from - %USERPROFILE%\\Desktop, %APPDATA%, %PUBLIC%\\Desktop, %ProgramFiles% and the rest - so a path added once follows the account the terminal signs into and works on every machine instead of naming one computer. A path inside somebody else's account is still left alone and flagged, because no variable can make that one work; the page now also says, quietly, when a row follows the signed-in account and so needs its own copy of the file on each desktop.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.0/RapTech.exe",
-  "size": 13807104,
-  "sha256": "f740e850dc4c87169b26bb6877612c83e29f2436c38cc692a215dec8ac4efa1a",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.0/systemRunTime.exe",
+  "notes": "Steam and other launcher shortcuts are now added as the game rather than as the shortcut file. A .url on the desktop is only a few lines of text naming a game, so adding one used to store a path that lived in one Windows account and on one computer's disk. Browse and dragging a shortcut on now store the link inside it - steam://rungameid/3199170 - which is not a file at all, so it works in every account, on every machine, and keeps working when Steam rewrites its shortcuts or somebody tidies a desktop. Epic, GOG and Ubisoft shortcuts work the same way. Windows .lnk shortcuts are unchanged and still stored as a path.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.1/RapTech.exe",
+  "size": 13810176,
+  "sha256": "5ae00eefdd0312d9dc45184aadc12008a709692e467439ad46bb71e43bc62ff3",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "f21288e1b849603505873d5c4ddc82ed4dd027f2525a5552e96768f5ee039ffb"
+  "helperSha256": "b8e4cb2e89e916f82ec5b5cc8c61ff10d5121e8f59798a3116690e7336a0c4dc"
 }
