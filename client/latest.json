@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "released": "2026-09-18",
-  "notes": "Fixes a game added from a staff account's own desktop being unopenable by customers. A folder like C:\\Users\\Administrator is readable only by that Windows account, so the terminal was refused before the game was reached - and it reported this as the game being gone, which sent staff looking for a file that was still there. It now says the game cannot be opened on this computer, and the Games page warns about such a path as soon as it is added, naming the account and what to do. Browse and dropping a shortcut now also write the path using the variable for the folder it came from - %PUBLIC%\\Desktop\\... - so a game added once works in every Windows account and on every machine.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.3.1/RapTech.exe",
-  "size": 13805568,
-  "sha256": "b88480c270c5a14c8eb2a8231239a163468a9290e77ee4797f868ee478a83a40",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.3.1/systemRunTime.exe",
+  "notes": "Game and save paths now correct themselves. Browse, dragging a shortcut on, and picking a save folder all rewrite what they got to use the Windows variable for the folder it came from - %USERPROFILE%\\Desktop, %APPDATA%, %PUBLIC%\\Desktop, %ProgramFiles% and the rest - so a path added once follows the account the terminal signs into and works on every machine instead of naming one computer. A path inside somebody else's account is still left alone and flagged, because no variable can make that one work; the page now also says, quietly, when a row follows the signed-in account and so needs its own copy of the file on each desktop.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.0/RapTech.exe",
+  "size": 13807104,
+  "sha256": "f740e850dc4c87169b26bb6877612c83e29f2436c38cc692a215dec8ac4efa1a",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "80a4f0bed178eacf7b1a0eaf3554fa5d14560adfc6712fb3a574309cc96fe473"
+  "helperSha256": "f21288e1b849603505873d5c4ddc82ed4dd027f2525a5552e96768f5ee039ffb"
 }
