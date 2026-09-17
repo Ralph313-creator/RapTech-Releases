@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "released": "2026-09-18",
-  "notes": "Steam and other launcher shortcuts are now added as the game rather than as the shortcut file. A .url on the desktop is only a few lines of text naming a game, so adding one used to store a path that lived in one Windows account and on one computer's disk. Browse and dragging a shortcut on now store the link inside it - steam://rungameid/3199170 - which is not a file at all, so it works in every account, on every machine, and keeps working when Steam rewrites its shortcuts or somebody tidies a desktop. Epic, GOG and Ubisoft shortcuts work the same way. Windows .lnk shortcuts are unchanged and still stored as a path.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.1/RapTech.exe",
-  "size": 13810176,
-  "sha256": "5ae00eefdd0312d9dc45184aadc12008a709692e467439ad46bb71e43bc62ff3",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.4.1/systemRunTime.exe",
+  "notes": "Game pictures are now kept in the media folder under the game's own name - BLOODSTRIKE.png instead of game-p7k2.png - so a shop opening that folder can tell which picture belongs to which tile. Better still, a picture dropped into the media folder named after a game becomes that game's artwork on its own, with nothing typed and no dialog opened: forty pictures copied in once rather than forty trips through the panel. A tile that already has a picture is left alone, and renaming a game still keeps the picture it was given.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.5.0/RapTech.exe",
+  "size": 13816320,
+  "sha256": "5a2289b9e7e879e7d5b4b0d462e2ccd9321215a24f2862d750a6e617cb7f3cc5",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.5.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "b8e4cb2e89e916f82ec5b5cc8c61ff10d5121e8f59798a3116690e7336a0c4dc"
+  "helperSha256": "6a313d6d946b4c1f6e2d4499e9daecfafaf3f6f2610e3c97e51e86171da9d301"
 }
