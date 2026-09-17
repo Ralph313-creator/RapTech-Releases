@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.0.0",
-  "released": "2026-09-16",
-  "notes": "First release. The Store page now edits one product at a time in a window over the list, the way the terminal's own operator panel does.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.0.0/RapTech-Server.exe",
-  "size": 14355968,
-  "sha256": "4ccebb252fb5350cfd0ece18c48891c9d3638529be7b341623b61b805c981b17"
+  "version": "1.1.0",
+  "released": "2026-09-18",
+  "notes": "The terminal settings profile gains two shop-wide fields. Path shortcuts let you write a folder down once - GAMES for D:\\Games - and use it in every game's paths on every terminal, so moving the games to a different disk is one row here rather than every game on every machine. And the keyboard shortcut customers press to put their countdown over a fullscreen game can now be set for the whole floor from the counter. Both need terminals on 1.3.0 or newer.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.1.0/RapTech-Server.exe",
+  "size": 14358016,
+  "sha256": "5a1ee8902d843c6600a01efdc9e7e48c64fe3650ff01fb09c83377a779338404"
 }
