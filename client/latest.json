@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.1.0",
-  "released": "2026-09-16",
-  "notes": "The launcher now behaves like a desktop: it sits under game windows instead of burying them, and the taskbar's Show Desktop button can be switched off from Setup. Customer alerts arrive as an overlay card over whatever is running. Game shortcuts pick up their Steam artwork, and picking a game's exe is quicker.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.1.0/RapTech.exe",
-  "size": 13732864,
-  "sha256": "c9605f352f77d7d046d643e9853f635c2faed946e640e0e7cd00685fb147295a",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.1.0/systemRunTime.exe",
+  "version": "1.2.0",
+  "released": "2026-09-18",
+  "notes": "Customers can now put their countdown on screen over a fullscreen game with a keyboard shortcut - Ctrl+Alt+T to begin with, and the shop can change it or switch it off under Customization. The card shows the shortcut, so a customer who wants it gone can see how to do it without leaving their game. Also fixes a rare hang when the terminal was being quit.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.2.0/RapTech.exe",
+  "size": 13791232,
+  "sha256": "254de79f6cd2938c539f198d4f1681db4b40417f09523c4417cc79703b896f8d",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.2.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "0bfd3a0c2fe05260eef3ddc09503acd064e0dbdd84f149e6c40ef0457ef52464"
+  "helperSha256": "17083ba3bb5d0e617945c7e16b12ca6ca66e44f86fc94418c4bee365b2779c35"
 }
