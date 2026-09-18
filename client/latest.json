@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "released": "2026-09-19",
-  "notes": "Diskless Game Fix is now links you write yourself. The six built-in launchers are gone: their folders were guesses, and a link to a folder a launcher no longer reads is a fix that reports a tick and changes nothing. Add a launcher, give it a name, say where it is saved on the game disk, and add one Source folder per place it keeps its records — Riot needs two. Press Copy a prompt for an AI and paste the question into any assistant to find those folders. A link that moves now takes the records with it. Also: a fresh install now starts pointed at a counter on this same machine (http://localhost:8088); clear the address on the Server tab for a standalone shop.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.9.0/RapTech.exe",
-  "size": 13888000,
-  "sha256": "41760b2c801456be43133719f953c08824be9b889e6b38e7ca97ce844c96e644",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.9.0/systemRunTime.exe",
+  "notes": "Diskless Game Fix: launcher folders are linked to the save location on the game disk (the counter too), so game updates reach every terminal with nothing copied. Old .raptech-old backups are removed.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.10.0/RapTech.exe",
+  "size": 13899264,
+  "sha256": "f3572e91e41b402748bce770e993f727d4e38dc2b9ae7a26bdd0468b498319c6",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.10.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "ab0e71075a28d9c1e3921da459dd60381de2260875b7ec832964c751c68c79a6"
+  "helperSha256": "a170981d2377dff5eb183a82ac676cef32866778a57784169b3a810fb9e1fc0a"
 }
