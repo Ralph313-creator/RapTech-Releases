@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "released": "2026-09-19",
-  "notes": "Diskless Game Fix: a Link button on Client Terminal Setting turns this PC's launcher folders into links to the save location on the game disk, so game updates reach every terminal with nothing copied.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.5.0/RapTech-Server.exe",
-  "size": 14536192,
-  "sha256": "6b0929681fc0dda99753654738b61d58005eae1589f1b34ec1b1a4fb6de5acff"
+  "notes": "Diskless Game Fix: one save path for the shop instead of a folder per row; each launcher is kept in a folder named after it.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.6.0/RapTech-Server.exe",
+  "size": 14539776,
+  "sha256": "f4a09cd8b1c2e2e8e659858d33c153f1533e0fae9567f9bdfdf339ce0dd59ae9"
 }
