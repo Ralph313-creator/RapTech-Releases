@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "released": "2026-09-18",
-  "notes": "Steam-link games now keep the customer's progress: a Steam tile is paired with its Keep progress row by the game's name, so the row names the game's own program (Dota2.exe), and the copy is taken when that program closes. The Games page no longer tells you to type the Steam app id as the program file.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.1/RapTech.exe",
-  "size": 13841920,
-  "sha256": "e06d39dbc3ba9b6647381025e12b606317fe840c94ec1d38d50250c2e16fe5de",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.1/systemRunTime.exe",
+  "notes": "Diskless Game Fix: a diskless PC's Steam, Epic, Riot, Discord, Roblox and FiveM see the games already on the game disk instead of offering to install them (turned on from the counter's Client Terminal Setting page; custom links for other launchers). When security is off, or staff are signed in to the operator panel, the RapTech window now behaves like a normal Windows window: taskbar button, Alt+Tab, minimise, and never kept on top.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.8.0/RapTech.exe",
+  "size": 13884416,
+  "sha256": "164effc2f9162ea66a3c824124e3f59907738c2da73a21d5414a283a6ecb0d8b",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.8.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "c5f57ac5799f73c98feed8db5632401227d2d2ccd48d1900983714b4daecd141"
+  "helperSha256": "ab0e71075a28d9c1e3921da459dd60381de2260875b7ec832964c751c68c79a6"
 }
