@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "released": "2026-09-19",
-  "notes": "Diskless Game Fix: launcher folders are linked to the save location on the game disk (the counter too), so game updates reach every terminal with nothing copied. Old .raptech-old backups are removed.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.10.0/RapTech.exe",
-  "size": 13899264,
-  "sha256": "f3572e91e41b402748bce770e993f727d4e38dc2b9ae7a26bdd0468b498319c6",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.10.0/systemRunTime.exe",
+  "notes": "Diskless Game Fix works like CCBoot's: one save path for the shop with a folder per launcher, a folder in the way is replaced by the link, and links are re-checked before every game launch.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.11.0/RapTech.exe",
+  "size": 13903872,
+  "sha256": "60d7b6d6c0f6307382d27a262a6f1e32d489dda374ae80d4144aa51472a03a2c",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.11.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "a170981d2377dff5eb183a82ac676cef32866778a57784169b3a810fb9e1fc0a"
+  "helperSha256": "cfa7ecbf5e6ce74ce5a39c78d7dffd5756945b590a48af5aed5624ff725c54d9"
 }
