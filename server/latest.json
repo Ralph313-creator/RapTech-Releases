@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "released": "2026-09-19",
-  "notes": "Diskless Game Fix: one save path for the shop instead of a folder per row; each launcher is kept in a folder named after it.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.6.0/RapTech-Server.exe",
-  "size": 14539776,
-  "sha256": "f4a09cd8b1c2e2e8e659858d33c153f1533e0fae9567f9bdfdf339ce0dd59ae9"
+  "notes": "Diskless Game Fix works like CCBoot's GameFix: CCBoot folder layout, symbolic links with a junction fallback, registry values and games per launcher, each computer's Game Fix status on the Computers page, and the AI prompt now asks for registry values too.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.7.0/RapTech-Server.exe",
+  "size": 14552064,
+  "sha256": "c5eaac54ed2029dbaa729daac0c37c239f33d05924ca65c8bdda47a2e9c784fd"
 }
