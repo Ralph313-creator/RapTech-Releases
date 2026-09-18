@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "released": "2026-09-18",
-  "notes": "The menu comes to the front when you press it. It used to stay behind whatever else was open, so pressing the part of it showing behind a game looked like nothing had happened - it took the keyboard, but did not come forward. It now stacks like any other window. Win+D and Win+M still bring up the menu instead of uncovering the Windows desktop, and the menu is still kept off the taskbar and out of Alt+Tab.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.6.0/RapTech.exe",
-  "size": 13813248,
-  "sha256": "3bce48ac34c111b31036741f1c4d1672d36c0db528c93fd0f8d98091eeec3e5c",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.6.0/systemRunTime.exe",
+  "notes": "Orders from the seat can be answered with buttons on the counter's Telegram: Accept starts the customer's countdown, Ready tells them it is ready, Decline tells them it is cancelled and puts the stock back. Dropping a desktop shortcut on the Games page now fills in the program, its arguments and its Start in folder from the shortcut's Properties. The ledger records time bought and time left to the second. With security switched off, the operator panel opens without a password. The tray icon's right-click menu is down to Show RapTech - staff use the cog.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.0/RapTech.exe",
+  "size": 13834240,
+  "sha256": "f83ade1df5aa5f6f03ca20df2ae15009d03cb837b03ce9c7a54d54f075936209",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "cd2bf3a7090753ec334815faf64a6dba5ffb2d57dc265934a52a6045a2d11bfb"
+  "helperSha256": "e7bf9fccca4bc0c2d41c2a2f290aded212b8e9a25843f5caf0bf15c092694ab8"
 }
