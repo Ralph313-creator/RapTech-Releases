@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "released": "2026-09-18",
-  "notes": "Store orders now have Accept, Ready and Decline buttons on Telegram, and a store book: every order is kept, and becomes a sale when Ready is pressed. New Store sales page with the day's orders, best sellers, CSV and the same three buttons; /storesales on Telegram, and /sales now includes the store. Books shows time bought and time remaining in hours, minutes and seconds. Dashboard pages update on their own - no more refreshing to see new data.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.2.0/RapTech-Server.exe",
-  "size": 14461952,
-  "sha256": "2def6bb46d409c0ef91b2506c74708b86dcabc8f9042a646715061327fa902cf"
+  "notes": "The Terminal settings page is now Client Terminal Setting, organised into categories: one row per setting, and the rate table, curfew hours and launcher tiles open in their own window. Path shortcuts are no longer pushed from the counter; each terminal keeps its own on its Games page. The tray setting is now called Show X button on game menu. Thin, modern scrollbars throughout the dashboard.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.2.1/RapTech-Server.exe",
+  "size": 14464512,
+  "sha256": "d856960903f7aa973f9dda52b10f6a8872f64f92acc3ebbf97f0c2c91611f8da"
 }
