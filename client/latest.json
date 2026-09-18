@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "released": "2026-09-18",
-  "notes": "Orders from the seat can be answered with buttons on the counter's Telegram: Accept starts the customer's countdown, Ready tells them it is ready, Decline tells them it is cancelled and puts the stock back. Dropping a desktop shortcut on the Games page now fills in the program, its arguments and its Start in folder from the shortcut's Properties. The ledger records time bought and time left to the second. With security switched off, the operator panel opens without a password. The tray icon's right-click menu is down to Show RapTech - staff use the cog.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.0/RapTech.exe",
-  "size": 13834240,
-  "sha256": "f83ade1df5aa5f6f03ca20df2ae15009d03cb837b03ce9c7a54d54f075936209",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.0/systemRunTime.exe",
+  "notes": "Steam-link games now keep the customer's progress: a Steam tile is paired with its Keep progress row by the game's name, so the row names the game's own program (Dota2.exe), and the copy is taken when that program closes. The Games page no longer tells you to type the Steam app id as the program file.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.1/RapTech.exe",
+  "size": 13841920,
+  "sha256": "e06d39dbc3ba9b6647381025e12b606317fe840c94ec1d38d50250c2e16fe5de",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.7.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "e7bf9fccca4bc0c2d41c2a2f290aded212b8e9a25843f5caf0bf15c092694ab8"
+  "helperSha256": "c5f57ac5799f73c98feed8db5632401227d2d2ccd48d1900983714b4daecd141"
 }
