@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "released": "2026-09-19",
-  "notes": "Diskless Game Fix on the Client Terminal Setting page is now links you write yourself. The six built-in launcher switches are gone: their folders were guesses, and a link to a folder a launcher no longer reads is a fix that reports a tick and changes nothing. Add a launcher, say where it is saved on the game disk, and add one Source folder per place it keeps its records — Riot needs two. Press Copy a prompt for an AI and paste the question into any assistant to find those folders. Rows naming the old launchers are dropped the first time this page is saved. Needs terminals on 1.9.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.4.0/RapTech-Server.exe",
-  "size": 14471680,
-  "sha256": "12a7a0f00bc6d0cb3e088cd2d5391d1e7f8a7a40d2f7cc5cd16430022af64a73"
+  "notes": "Diskless Game Fix: a Link button on Client Terminal Setting turns this PC's launcher folders into links to the save location on the game disk, so game updates reach every terminal with nothing copied.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.5.0/RapTech-Server.exe",
+  "size": 14536192,
+  "sha256": "6b0929681fc0dda99753654738b61d58005eae1589f1b34ec1b1a4fb6de5acff"
 }
