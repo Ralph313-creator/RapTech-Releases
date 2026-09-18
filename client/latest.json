@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "released": "2026-09-19",
-  "notes": "Diskless Game Fix works like CCBoot's: one save path for the shop with a folder per launcher, a folder in the way is replaced by the link, and links are re-checked before every game launch.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.11.0/RapTech.exe",
-  "size": 13903872,
-  "sha256": "60d7b6d6c0f6307382d27a262a6f1e32d489dda374ae80d4144aa51472a03a2c",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.11.0/systemRunTime.exe",
+  "notes": "Diskless Game Fix works like CCBoot's GameFix: CCBoot folder layout (APPDATA\\Local, APPDATA\\Roaming, PROGRAMDATA), symbolic links with a junction fallback, a missing save path changes nothing, per-launcher registry values, fixes tied to games, raptechready.bat / icafemenuready.bat before a game starts, and status reported to the counter.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.12.0/RapTech.exe",
+  "size": 13931008,
+  "sha256": "50a614a2fca092553700493a2e0c4ca3a85f6e344e8834cb3414e195f823fe93",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.12.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "cfa7ecbf5e6ce74ce5a39c78d7dffd5756945b590a48af5aed5624ff725c54d9"
+  "helperSha256": "240117735a173af8c07b8074dfb9dbb6e3533faede512b0f075a26bc17d5ebe3"
 }
