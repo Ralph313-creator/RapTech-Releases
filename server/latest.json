@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "released": "2026-09-18",
-  "notes": "The Terminal settings page is now Client Terminal Setting, organised into categories: one row per setting, and the rate table, curfew hours and launcher tiles open in their own window. Path shortcuts are no longer pushed from the counter; each terminal keeps its own on its Games page. The tray setting is now called Show X button on game menu. Thin, modern scrollbars throughout the dashboard.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.2.1/RapTech-Server.exe",
-  "size": 14464512,
-  "sha256": "d856960903f7aa973f9dda52b10f6a8872f64f92acc3ebbf97f0c2c91611f8da"
+  "notes": "New Diskless Game Fix card on the Client Terminal Setting page: switch on Steam, Epic, Riot, Discord, Roblox or FiveM for the whole floor, set where each is installed on the game disk, and add custom links for other launchers. Needs terminals on 1.8.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.3.0/RapTech-Server.exe",
+  "size": 14468096,
+  "sha256": "f8c3218199607de039581ed77d9e8ebacaf75929980685bc79763343d6a8dd38"
 }
