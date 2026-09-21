@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.8.0",
-  "released": "2026-09-19",
-  "notes": "Diskless Game Fix: symbolic links only (run the counter as administrator or turn on Windows Developer Mode). Games and registry inputs removed; the AI prompt asks for folders only.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.8.0/RapTech-Server.exe",
-  "size": 14548480,
-  "sha256": "5cd2f0cbab33a543027bccbfdccff7fa281750c11bead584cc3412858939da15"
+  "version": "1.9.0",
+  "released": "2026-09-21",
+  "notes": "Unanswered orders can now be cancelled automatically: Settings > Unanswered orders takes a number of minutes, and an order nobody has accepted in that long is declined for you, the customer is told and the stock goes back. Off until you set it. Customers' favourite games are kept on their account, so the hearts they set at one computer are there at the next.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.9.0/RapTech-Server.exe",
+  "size": 14569472,
+  "sha256": "e685b312b81bea71635a748efcdc1850a684af31d3a8fa8e67be7fa4634fa120"
 }
