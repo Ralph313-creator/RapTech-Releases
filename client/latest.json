@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.14.0",
-  "released": "2026-09-21",
-  "notes": "Favourites: sign in and press the heart on a game to keep it under a Favourites tab that follows you to any computer in the shop. The countdown over your game is now shown from the start of a sitting (a shop can switch it off). Games are started by an icon on the tile's picture instead of a button under it. Optional sound effects for pointing at a game and starting one — silent until a shop adds its own sound files.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.14.0/RapTech.exe",
-  "size": 13961216,
-  "sha256": "ccedb56ea5e2d4bf7058100b2ebf62703730702d89e2f77a6564f248b641a8c2",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.14.0/systemRunTime.exe",
+  "version": "1.14.1",
+  "released": "2026-09-22",
+  "notes": "The countdown card over your game now sits below the title bar buttons, so the minimise and close buttons of whatever you are running stay clickable.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.14.1/RapTech.exe",
+  "size": 14225920,
+  "sha256": "01a1fcfe8c2d525f32e67df62bc1f387612bc856c5da693a87f507de9e3d0bc6",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.14.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "942aa9d25cd5756005b9d8eb71f711139ede1118b6c99e1f2c931debfccf5cd2"
+  "helperSha256": "df32d7c6bfec8578fa16965935aabd2744e6a2ab222246cab395e4e7ac6f3c89"
 }
