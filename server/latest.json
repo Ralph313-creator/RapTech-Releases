@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.10.0",
-  "released": "2026-09-22",
-  "notes": "Settings > This computer is now one AutoRun switch: on installs the background service so the shop is open before anyone signs in, off runs the server only while the window is open. A counter set up the old way is told so and can be put right with one button. Tidier settings, license, Telegram and update panels throughout the dashboard.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.10.0/RapTech-Server.exe",
-  "size": 14582784,
-  "sha256": "3f2399e9e702bc89230f4553f72870249fb09a2c279ea547c6dbb15f42bdb039"
+  "version": "1.11.0",
+  "released": "2026-09-23",
+  "notes": "The Accounts page can now be filtered by where a customer is (on a computer or not) and by status: on a free session, banned, allowed in curfew, with time left, or out of time. The counter also writes terminals' check-ins to disk far less often, without holding back anything that is money.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.11.0/RapTech-Server.exe",
+  "size": 14585344,
+  "sha256": "2fcba742edbc95e23d6cf9f6480f8c4923aa8dd59e6ab66ef619bbe7a5c71f4c"
 }
