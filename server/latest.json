@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.9.0",
-  "released": "2026-09-21",
-  "notes": "Unanswered orders can now be cancelled automatically: Settings > Unanswered orders takes a number of minutes, and an order nobody has accepted in that long is declined for you, the customer is told and the stock goes back. Off until you set it. Customers' favourite games are kept on their account, so the hearts they set at one computer are there at the next.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.9.0/RapTech-Server.exe",
-  "size": 14569472,
-  "sha256": "e685b312b81bea71635a748efcdc1850a684af31d3a8fa8e67be7fa4634fa120"
+  "version": "1.10.0",
+  "released": "2026-09-22",
+  "notes": "Settings > This computer is now one AutoRun switch: on installs the background service so the shop is open before anyone signs in, off runs the server only while the window is open. A counter set up the old way is told so and can be put right with one button. Tidier settings, license, Telegram and update panels throughout the dashboard.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.10.0/RapTech-Server.exe",
+  "size": 14582784,
+  "sha256": "3f2399e9e702bc89230f4553f72870249fb09a2c279ea547c6dbb15f42bdb039"
 }
