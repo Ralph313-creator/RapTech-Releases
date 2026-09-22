@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.14.1",
-  "released": "2026-09-22",
-  "notes": "The countdown card over your game now sits below the title bar buttons, so the minimise and close buttons of whatever you are running stay clickable.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.14.1/RapTech.exe",
-  "size": 14225920,
-  "sha256": "01a1fcfe8c2d525f32e67df62bc1f387612bc856c5da693a87f507de9e3d0bc6",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.14.1/systemRunTime.exe",
+  "version": "1.15.0",
+  "released": "2026-09-23",
+  "notes": "Behind a fullscreen game the terminal now goes quiet, cutting its background work while the clock, coins and countdown card carry on. Switching security on now also turns on Start with Windows and the helper service, and refuses to arm without systemRunTime.exe beside the program. Store pictures from the counter no longer weigh down every screen refresh.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.15.0/RapTech.exe",
+  "size": 14233600,
+  "sha256": "e729e5185dcf7d09a8be7a0b080a2e7094a0664b04dd6bca5b3cd0fe03caae57",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.15.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "df32d7c6bfec8578fa16965935aabd2744e6a2ab222246cab395e4e7ac6f3c89"
+  "helperSha256": "d71714a8bbefdfc7a7d075506bb11c5c6a70ba832eae64ba6032bffbd40788dc"
 }
