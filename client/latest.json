@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.17.0",
+  "version": "1.18.0",
   "released": "2026-09-26",
-  "notes": "Each computer's card on the counter can now show its processor temperature, read from a Gigabyte board's own firmware with nothing installed (the terminal must run as Administrator), alongside its memory, processor load and graphics card temperature. The counter can watch each terminal's screen, live when clicked. Launcher pictures load without stalling the menu, the start badge is redrawn, and the coin prompt shows a peso sign. The Diskless Game Fix and Path shortcuts are removed.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.17.0/RapTech.exe",
-  "size": 14329856,
-  "sha256": "26990be32044d04108546baa760912c6f4cb2a52ec8c675b58f346242c5c05d4",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.17.0/systemRunTime.exe",
+  "notes": "The counter can now restart or shut down a computer from its card, and name the staff member who did it. Time bought at the counter is booked on the rate card's line with who gave it.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.18.0/RapTech.exe",
+  "size": 14334976,
+  "sha256": "31aa61a0fffa65417c070acb7685aea989e23bf694bfbee5fd139e9f4fa3c598",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.18.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "44ab5a5b4936159529593fea288430b380ce94058aa115803267cc87cb2a9818"
+  "helperSha256": "3650552e4b148e008755d71dd542d3f6127a2aa1198de64edf68e65b1543bf6e"
 }
