@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "released": "2026-09-26",
-  "notes": "Staff sign in to the dashboard by name: the owner is admin, everyone else is a row on the new Staff page with a role and a tick box per action (restart, add time, end a session, answer orders, export books and so on). Books, Store sales and the audit log record who did what, time given to an account now counts in the takings, and each Computers card has Restart and Shut down buttons.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.14.0/RapTech-Server.exe",
-  "size": 14683136,
-  "sha256": "2b2ca6b8bc46ae48bd68674bf94640b80d5bd0710f3907aca72016b8a81c4cf2"
+  "notes": "Installing an update now closes the old copy by force if it has not closed on its own within a few seconds, and starts the new one, instead of leaving the shop on the old version.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.14.1/RapTech-Server.exe",
+  "size": 14688256,
+  "sha256": "744f6a37d625b0fecece686be357f2f4a32f2baeb47a6c6403b1841a5ca212ce"
 }
