@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.12.0",
-  "released": "2026-09-24",
-  "notes": "The Client Terminal Setting page is laid out in three even columns by subject, with the Launcher card split into groups, and it gains the choice between the new Modern launcher theme and Classic for the whole floor.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.12.0/RapTech-Server.exe",
-  "size": 14586368,
-  "sha256": "6cc2485ce5a4e59ba0378ad8548c8fef033571d762ed74083662c926d4fc7cb9"
+  "version": "1.13.0",
+  "released": "2026-09-26",
+  "notes": "The Computers page shows each machine's memory, processor load, and graphics and processor temperatures, and a screen monitor with a live view on click (landscape on phones). Store orders are answered with buttons only. Remove a computer moved to This counter. The dashboard keeps its page across a refresh, and a crashed server's leftover lock no longer blocks a restart.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.13.0/RapTech-Server.exe",
+  "size": 14594560,
+  "sha256": "6aa21009d6ab34082c38a6dc3de9c1bd5e734d3fc95e495bbb6ee3a00e94fcd3"
 }
