@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "released": "2026-09-26",
-  "notes": "The Computers page shows each machine's memory, processor load, and graphics and processor temperatures, and a screen monitor with a live view on click (landscape on phones). Store orders are answered with buttons only. Remove a computer moved to This counter. The dashboard keeps its page across a refresh, and a crashed server's leftover lock no longer blocks a restart.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.13.0/RapTech-Server.exe",
-  "size": 14594560,
-  "sha256": "6aa21009d6ab34082c38a6dc3de9c1bd5e734d3fc95e495bbb6ee3a00e94fcd3"
+  "notes": "Staff sign in to the dashboard by name: the owner is admin, everyone else is a row on the new Staff page with a role and a tick box per action (restart, add time, end a session, answer orders, export books and so on). Books, Store sales and the audit log record who did what, time given to an account now counts in the takings, and each Computers card has Restart and Shut down buttons.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.14.0/RapTech-Server.exe",
+  "size": 14683136,
+  "sha256": "2b2ca6b8bc46ae48bd68674bf94640b80d5bd0710f3907aca72016b8a81c4cf2"
 }
