@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.16.0",
-  "released": "2026-09-24",
-  "notes": "The launcher has a redesigned Modern theme, now the default, with a Home page that puts the customer's last game first; Classic is still one switch away. The timer overlay is redesigned and shows a store order's countdown. The launcher plays a soft sound on hovering a tile and on launch, each replaceable or silenced, and a reply from the counter chimes.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.16.0/RapTech.exe",
-  "size": 14289408,
-  "sha256": "4b8915f2383f26e0a340b8c464bffaaaf18319e4e92e8e1ad65686e689be8c76",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.16.0/systemRunTime.exe",
+  "version": "1.17.0",
+  "released": "2026-09-26",
+  "notes": "Each computer's card on the counter can now show its processor temperature, read from a Gigabyte board's own firmware with nothing installed (the terminal must run as Administrator), alongside its memory, processor load and graphics card temperature. The counter can watch each terminal's screen, live when clicked. Launcher pictures load without stalling the menu, the start badge is redrawn, and the coin prompt shows a peso sign. The Diskless Game Fix and Path shortcuts are removed.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.17.0/RapTech.exe",
+  "size": 14329856,
+  "sha256": "26990be32044d04108546baa760912c6f4cb2a52ec8c675b58f346242c5c05d4",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.17.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "dfa759da9f047676b968277f726cdaa395a86b0ade69fce6ec9cceca3736aa29"
+  "helperSha256": "44ab5a5b4936159529593fea288430b380ce94058aa115803267cc87cb2a9818"
 }
