@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.19.1",
+  "version": "1.19.2",
   "released": "2026-09-27",
-  "notes": "The computer that runs RapTech-Server is no longer locked by the Lock & power rules: it is not held shut for a missing coin slot and is never switched off for sitting locked. The rest of the floor still follows them.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.1/RapTech.exe",
-  "size": 15809536,
-  "sha256": "4a05bbb004f779bb01c473baba46927ae9082e6a9bdfb872609809db84983609",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.1/systemRunTime.exe",
+  "notes": "The shop's email can now be changed right under the license key, so a key issued to a different address can be matched without leaving the License section.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.2/RapTech.exe",
+  "size": 15810048,
+  "sha256": "886ee265b2a44714017da925eadd22c740bf2394436670af0909fe423d061748",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.2/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "0d55cb9073ddc4be63dfd8ef1711954d16240113424c4b68a741eca9a2df0fdc"
+  "helperSha256": "232386bc8ac979765ae5161a4f7dd36e4f70230aec008ec869d3bf81ebc435d1"
 }
