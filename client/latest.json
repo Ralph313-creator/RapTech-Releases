@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.19.0",
+  "version": "1.19.1",
   "released": "2026-09-27",
-  "notes": "New launcher themes (Ocean, Emerald, Neon and Carbon), a Home page banner that moves on by itself, and a Carousel page to choose what it shows, including your own ads. Empty game and store lists are filled with ready-made cards, and the Games and Store pages show cards you can search and filter. A computer with no counter can reach staff phones through its own Telegram bot. Temperatures are no longer read unless switched on at the counter, after reports of blue screens. License keys now start with RT1: an older NP1 key no longer works, so ask for a new one.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.0/RapTech.exe",
-  "size": 15806464,
-  "sha256": "f9ff69313cf6e7ac4ba64079743f569a837487754e28cf4fa869ad5828e76bdc",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.0/systemRunTime.exe",
+  "notes": "The computer that runs RapTech-Server is no longer locked by the Lock & power rules: it is not held shut for a missing coin slot and is never switched off for sitting locked. The rest of the floor still follows them.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.1/RapTech.exe",
+  "size": 15809536,
+  "sha256": "4a05bbb004f779bb01c473baba46927ae9082e6a9bdfb872609809db84983609",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.1/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "f4a3920229ea709c3441318d34522883704cc96e0318e941ee097c4f984cce0a"
+  "helperSha256": "0d55cb9073ddc4be63dfd8ef1711954d16240113424c4b68a741eca9a2df0fdc"
 }
