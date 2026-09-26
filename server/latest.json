@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.14.1",
-  "released": "2026-09-26",
-  "notes": "Installing an update now closes the old copy by force if it has not closed on its own within a few seconds, and starts the new one, instead of leaving the shop on the old version.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.14.1/RapTech-Server.exe",
-  "size": 14688256,
-  "sha256": "744f6a37d625b0fecece686be357f2f4a32f2baeb47a6c6403b1841a5ca212ce"
+  "version": "1.15.0",
+  "released": "2026-09-27",
+  "notes": "Temperatures are no longer read from the computers unless you switch them on in Computers > Monitor settings, after reports of blue screens. A license banner now shows on every page, and after the free month a counter with no key keeps its first three computers. License keys now start with RT1: an older NP1 key no longer works, so ask for a new one. The Client Terminal Setting page has the new launcher themes and how long the Home banner holds each game.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.0/RapTech-Server.exe",
+  "size": 14713344,
+  "sha256": "2ee38417269c0fd300499cd0c55e41a2d36ef6f7d4b2ec633a41deca993e1a9a"
 }
