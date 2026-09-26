@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.18.1",
-  "released": "2026-09-26",
-  "notes": "Installing an update now closes the old copy by force if it has not closed on its own within a few seconds, and starts the new one, instead of leaving the shop on the old version.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.18.1/RapTech.exe",
-  "size": 14339584,
-  "sha256": "84a37f6ad5d47059abcf9c09e9535a2e62f0b608afda05a8ed6e87c7f131d219",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.18.1/systemRunTime.exe",
+  "version": "1.19.0",
+  "released": "2026-09-27",
+  "notes": "New launcher themes (Ocean, Emerald, Neon and Carbon), a Home page banner that moves on by itself, and a Carousel page to choose what it shows, including your own ads. Empty game and store lists are filled with ready-made cards, and the Games and Store pages show cards you can search and filter. A computer with no counter can reach staff phones through its own Telegram bot. Temperatures are no longer read unless switched on at the counter, after reports of blue screens. License keys now start with RT1: an older NP1 key no longer works, so ask for a new one.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.0/RapTech.exe",
+  "size": 15806464,
+  "sha256": "f9ff69313cf6e7ac4ba64079743f569a837487754e28cf4fa869ad5828e76bdc",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "8d9e9187cc8a79a4d95c1e0101da5f71da628777b3b829c50357bf636b143d7a"
+  "helperSha256": "f4a3920229ea709c3441318d34522883704cc96e0318e941ee097c4f984cce0a"
 }
