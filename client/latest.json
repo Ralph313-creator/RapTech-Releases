@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.19.3",
+  "version": "1.19.4",
   "released": "2026-09-27",
-  "notes": "The license key now sets the shop's email address on a computer without a counter, so a key always matches the address it was issued to. The address can no longer be typed over while a key is in.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.3/RapTech.exe",
+  "notes": "The terminal license key now sets the email address on every computer, including ones joined to a counter, so a key always matches the address it was issued to.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.4/RapTech.exe",
   "size": 15810560,
-  "sha256": "333a6f97f29eda6b4216cc8257a2502a2441a8af99672fd6a2277ad2a0649028",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.3/systemRunTime.exe",
+  "sha256": "f5ca20a63dccfd7c3d9a3904338d1e9187e3030a718dff90b0b6cce6812191b7",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.4/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "2add7bcb497b47e27fab3d6374f6e0f2db68ff5b70b8646c7bf2947c1a10abb8"
+  "helperSha256": "a65ba04e819d32fa3525ac97b49d150c099d3174adb01d6408d4027318e6daff"
 }
