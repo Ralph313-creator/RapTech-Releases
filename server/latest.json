@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.15.1",
+  "version": "1.15.2",
   "released": "2026-09-27",
-  "notes": "The shop's email can be edited beside both license keys again, even with a key in, and the dashboard warns when a change leaves a key not matching.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.1/RapTech-Server.exe",
-  "size": 14715392,
-  "sha256": "cb97878dfe425c7c3ece34e735cc54efa8992fec83356c73df4af3b4cf87f106"
+  "notes": "The shop's email is set by the license key again and cannot be typed over while a key is in.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.2/RapTech-Server.exe",
+  "size": 14713344,
+  "sha256": "544ef8e9c934ab4b6c5800652601e16d7a48d740c6ee8d97015eb7d2e217ab2a"
 }
