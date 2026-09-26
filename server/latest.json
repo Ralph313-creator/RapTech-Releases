@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.15.0",
+  "version": "1.15.1",
   "released": "2026-09-27",
-  "notes": "Temperatures are no longer read from the computers unless you switch them on in Computers > Monitor settings, after reports of blue screens. A license banner now shows on every page, and after the free month a counter with no key keeps its first three computers. License keys now start with RT1: an older NP1 key no longer works, so ask for a new one. The Client Terminal Setting page has the new launcher themes and how long the Home banner holds each game.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.0/RapTech-Server.exe",
-  "size": 14713344,
-  "sha256": "2ee38417269c0fd300499cd0c55e41a2d36ef6f7d4b2ec633a41deca993e1a9a"
+  "notes": "The shop's email can be edited beside both license keys again, even with a key in, and the dashboard warns when a change leaves a key not matching.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.1/RapTech-Server.exe",
+  "size": 14715392,
+  "sha256": "cb97878dfe425c7c3ece34e735cc54efa8992fec83356c73df4af3b4cf87f106"
 }
