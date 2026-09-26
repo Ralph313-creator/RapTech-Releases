@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.19.2",
+  "version": "1.19.3",
   "released": "2026-09-27",
-  "notes": "The shop's email can now be changed right under the license key, so a key issued to a different address can be matched without leaving the License section.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.2/RapTech.exe",
-  "size": 15810048,
-  "sha256": "886ee265b2a44714017da925eadd22c740bf2394436670af0909fe423d061748",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.2/systemRunTime.exe",
+  "notes": "The license key now sets the shop's email address on a computer without a counter, so a key always matches the address it was issued to. The address can no longer be typed over while a key is in.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.3/RapTech.exe",
+  "size": 15810560,
+  "sha256": "333a6f97f29eda6b4216cc8257a2502a2441a8af99672fd6a2277ad2a0649028",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.3/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "232386bc8ac979765ae5161a4f7dd36e4f70230aec008ec869d3bf81ebc435d1"
+  "helperSha256": "2add7bcb497b47e27fab3d6374f6e0f2db68ff5b70b8646c7bf2947c1a10abb8"
 }
