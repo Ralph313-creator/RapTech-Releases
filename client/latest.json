@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.19.4",
+  "version": "1.20.0",
   "released": "2026-09-27",
-  "notes": "The terminal license key now sets the email address on every computer, including ones joined to a counter, so a key always matches the address it was issued to.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.4/RapTech.exe",
-  "size": 15810560,
-  "sha256": "f5ca20a63dccfd7c3d9a3904338d1e9187e3030a718dff90b0b6cce6812191b7",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.19.4/systemRunTime.exe",
+  "notes": "Game progress: a game now starts only once the customer's saved progress has loaded (the tile says Loading progress…), open games are auto-saved whenever their files differ from the share, Load asks before replacing progress, and this computer's own save files are always put back at sign-out. The Store page just points to the counter when joined to a server, and Close and lock / Close RapTech completely are now along the bottom of the staff panel.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.20.0/RapTech.exe",
+  "size": 15830016,
+  "sha256": "ef16eb7b7f897c44281df8532228c65406e3b7fc264f1a678e34bcf582190cad",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.20.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "a65ba04e819d32fa3525ac97b49d150c099d3174adb01d6408d4027318e6daff"
+  "helperSha256": "5dc7ac232a266432bfd2d198ad3f4abd364f8f20051c9c0c42e00aaac564577b"
 }
