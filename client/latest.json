@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "released": "2026-09-28",
-  "notes": "Customers can delete a game's progress from My saves (asked first; the PC gets its own files back), and the Load button is gone since PLAY loads progress before the game opens. Every stored game path is rewritten to use Windows variables like %USERPROFILE%. The staff panel shows Standalone or Server mode, and the Shop server page has a Standalone / Server mode switch in place of Keep reconnecting, showing only the settings for the mode in use.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.21.0/RapTech.exe",
-  "size": 15849472,
-  "sha256": "a7df86f8232774605556b4c2ad17819a41403073a27fdf66fee9460e66fa0070",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.21.0/systemRunTime.exe",
+  "notes": "New Deck launcher layout (a console dashboard with a rail of places, the session card beside the banner, pick a game then play) alongside Shelf, Library and Arcade; Classic is gone. The countdown card over a game rests as a tab on the screen's edge, opens under the pointer and can be pinned open; the keyboard shortcut is gone. The staff panel saves each page with one Save changes in its bottom bar, and the theme picker opens in its own window. Arcade's screen, mouse, volume and brightness pop-ups now draw above the player panel.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.22.0/RapTech.exe",
+  "size": 16133120,
+  "sha256": "0f7b29c0d40b0b2c832eca120f4187bca20df701e3ecc9be52115a1b1f5430ed",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.22.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "70b55b3a5eb4feac4bd54c44a55a63856ec3be3b23291be456690980b412d31f"
+  "helperSha256": "1a33d20ffd25c30206c3b069345e92603fd49a740f376f1dd893e0b0686b0687"
 }
