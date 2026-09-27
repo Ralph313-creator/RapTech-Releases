@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.15.2",
+  "version": "1.15.3",
   "released": "2026-09-27",
-  "notes": "The shop's email is set by the license key again and cannot be typed over while a key is in.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.2/RapTech-Server.exe",
+  "notes": "Client Terminal Setting no longer has a Start with Windows switch — each computer's security switch decides that.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.3/RapTech-Server.exe",
   "size": 14713344,
-  "sha256": "544ef8e9c934ab4b6c5800652601e16d7a48d740c6ee8d97015eb7d2e217ab2a"
+  "sha256": "3b769c1a2a94ef9512c0a1f410aa74fe3aff63345d58e44e4db67be405e00656"
 }
