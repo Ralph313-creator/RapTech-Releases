@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.15.3",
-  "released": "2026-09-27",
-  "notes": "Client Terminal Setting no longer has a Start with Windows switch — each computer's security switch decides that.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.15.3/RapTech-Server.exe",
-  "size": 14713344,
-  "sha256": "3b769c1a2a94ef9512c0a1f410aa74fe3aff63345d58e44e4db67be405e00656"
+  "version": "1.16.0",
+  "released": "2026-09-28",
+  "notes": "Client Terminal Setting offers the new launcher layouts — Deck (Graphite, Ice, Ember), Shelf, Library and Arcade — and Classic is gone. The countdown shortcut box is gone, since the countdown card now opens from a tab on the screen's edge.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.16.0/RapTech-Server.exe",
+  "size": 14715392,
+  "sha256": "adcac90d46553f02044b719ad1ba56fd42b13f6f78314fb6709f3cdc5dced4fe"
 }
