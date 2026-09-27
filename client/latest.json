@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.20.0",
-  "released": "2026-09-27",
-  "notes": "Game progress: a game now starts only once the customer's saved progress has loaded (the tile says Loading progress…), open games are auto-saved whenever their files differ from the share, Load asks before replacing progress, and this computer's own save files are always put back at sign-out. The Store page just points to the counter when joined to a server, and Close and lock / Close RapTech completely are now along the bottom of the staff panel.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.20.0/RapTech.exe",
-  "size": 15830016,
-  "sha256": "ef16eb7b7f897c44281df8532228c65406e3b7fc264f1a678e34bcf582190cad",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.20.0/systemRunTime.exe",
+  "version": "1.21.0",
+  "released": "2026-09-28",
+  "notes": "Customers can delete a game's progress from My saves (asked first; the PC gets its own files back), and the Load button is gone since PLAY loads progress before the game opens. Every stored game path is rewritten to use Windows variables like %USERPROFILE%. The staff panel shows Standalone or Server mode, and the Shop server page has a Standalone / Server mode switch in place of Keep reconnecting, showing only the settings for the mode in use.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.21.0/RapTech.exe",
+  "size": 15849472,
+  "sha256": "a7df86f8232774605556b4c2ad17819a41403073a27fdf66fee9460e66fa0070",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.21.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "5dc7ac232a266432bfd2d198ad3f4abd364f8f20051c9c0c42e00aaac564577b"
+  "helperSha256": "70b55b3a5eb4feac4bd54c44a55a63856ec3be3b23291be456690980b412d31f"
 }
