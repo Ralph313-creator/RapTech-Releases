@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.22.0",
+  "version": "1.23.0",
   "released": "2026-09-28",
-  "notes": "New Deck launcher layout (a console dashboard with a rail of places, the session card beside the banner, pick a game then play) alongside Shelf, Library and Arcade; Classic is gone. The countdown card over a game rests as a tab on the screen's edge, opens under the pointer and can be pinned open; the keyboard shortcut is gone. The staff panel saves each page with one Save changes in its bottom bar, and the theme picker opens in its own window. Arcade's screen, mouse, volume and brightness pop-ups now draw above the player panel.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.22.0/RapTech.exe",
-  "size": 16133120,
-  "sha256": "0f7b29c0d40b0b2c832eca120f4187bca20df701e3ecc9be52115a1b1f5430ed",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.22.0/systemRunTime.exe",
+  "notes": "While a game or video fills the screen, the menu behind it rests: it stops redrawing, its animations and Home banner hold still, and the chat check pauses, so the game gets the computer to itself. It wakes with the right time the moment the menu is back in front. The clock, coins, warnings and the time card over the game carry on as before. The switch is Resting behind fullscreen games on the System page, on by default; turn it off on a PC with two screens.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.23.0/RapTech.exe",
+  "size": 16138752,
+  "sha256": "b69e214731930412240cf4acc34ccfa0cbb4a3dd780efdc31c18c5bb27e3305c",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.23.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "1a33d20ffd25c30206c3b069345e92603fd49a740f376f1dd893e0b0686b0687"
+  "helperSha256": "4993adc9ee3a995756c04fd430b83ec52ca5f703e7d0d12bf7518e36b3024885"
 }
