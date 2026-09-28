@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.16.0",
-  "released": "2026-09-28",
-  "notes": "Client Terminal Setting offers the new launcher layouts — Deck (Graphite, Ice, Ember), Shelf, Library and Arcade — and Classic is gone. The countdown shortcut box is gone, since the countdown card now opens from a tab on the screen's edge.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.16.0/RapTech-Server.exe",
-  "size": 14715392,
-  "sha256": "adcac90d46553f02044b719ad1ba56fd42b13f6f78314fb6709f3cdc5dced4fe"
+  "version": "1.17.0",
+  "released": "2026-09-29",
+  "notes": "Client Terminal Setting gains Most played first and Only staff can create accounts. The counter now counts game launches across the shop so terminals can sort by what is played most. The row for the launcher bar's X switch is gone, since that X was removed.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.17.0/RapTech-Server.exe",
+  "size": 14724608,
+  "sha256": "5c3980b6c5eaf78b0428b1de6c91600f2383114bf6e36b51b279673a32f2bf80"
 }
