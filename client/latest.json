@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.23.1",
-  "released": "2026-09-28",
-  "notes": "The lock screen now stays in front. While a PC is locked, Alt+Tab, Alt+Esc, Ctrl+Esc, Ctrl+Shift+Esc and the Windows keys do nothing, and a game or window that still gets in front of the lock is pushed back behind it, and minimised if it will not stay there. Tab and Esc still work in the password box, and staff who open the operator panel get every key back as before.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.23.1/RapTech.exe",
-  "size": 16144384,
-  "sha256": "b2cd267c3682c594283a29187059d84f1a75b911d4739cc691922118778011ec",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.23.1/systemRunTime.exe",
+  "version": "1.24.0",
+  "released": "2026-09-29",
+  "notes": "Staff can make accounts staff-only: the launcher then hides Create an account, and accounts are opened from the operator panel or the counter. The Home page can put the shop's most played games first. Games opened straight from Steam's own library now carry the customer's saved progress. The window's X puts RapTech in the notification area, and a switch on the System page controls the close and minimise buttons. Shelf's row follows the mouse, with smoother hover and the hover sound. Deck's rail no longer shows a clock, and its game rows fill the space under the banner. The shop's name on the bar goes back to Home on every layout.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.24.0/RapTech.exe",
+  "size": 16190976,
+  "sha256": "9802fad7341145cd846028a38fa542b1c89730b8c358371df07c18b50d184ef5",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.24.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "16e90fd4624b9c76307100a36ae780e385a8c5444f7310cae27b9793f53853ab"
+  "helperSha256": "721675daf6ac329f22a80e82169dc128dca4b3d081243a855ee39fbb780a6aa6"
 }
