@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.17.0",
+  "version": "1.18.0",
   "released": "2026-09-29",
-  "notes": "Client Terminal Setting gains Most played first and Only staff can create accounts. The counter now counts game launches across the shop so terminals can sort by what is played most. The row for the launcher bar's X switch is gone, since that X was removed.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.17.0/RapTech-Server.exe",
-  "size": 14724608,
-  "sha256": "5c3980b6c5eaf78b0428b1de6c91600f2383114bf6e36b51b279673a32f2bf80"
+  "notes": "Books and Settings each hold two pages as tabs across the top: Books has Time sales and Store sales, and Settings has Counter and Client (formerly This counter and Client Terminal Setting). Each tab shows only to staff allowed to open it.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.18.0/RapTech-Server.exe",
+  "size": 14726656,
+  "sha256": "c2ae1df8183983b3dea5eb74d464b0089717dfe86bfe96d26571e45de1c73701"
 }
