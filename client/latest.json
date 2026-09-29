@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.24.0",
+  "version": "1.25.0",
   "released": "2026-09-29",
-  "notes": "Staff can make accounts staff-only: the launcher then hides Create an account, and accounts are opened from the operator panel or the counter. The Home page can put the shop's most played games first. Games opened straight from Steam's own library now carry the customer's saved progress. The window's X puts RapTech in the notification area, and a switch on the System page controls the close and minimise buttons. Shelf's row follows the mouse, with smoother hover and the hover sound. Deck's rail no longer shows a clock, and its game rows fill the space under the banner. The shop's name on the bar goes back to Home on every layout.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.24.0/RapTech.exe",
-  "size": 16190976,
-  "sha256": "9802fad7341145cd846028a38fa542b1c89730b8c358371df07c18b50d184ef5",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.24.0/systemRunTime.exe",
+  "notes": "Security: a terminal with its guard installed stays armed even if its settings file is lost, and while armed RapTech is protected from being closed, paused or changed from the customer's Windows account. The coin slot counts only signals that match the coin machine's own, pauses itself for a minute if more than 150 pesos go in within a minute, and no longer sometimes reads a 20-peso coin as 10. The Coin slot page shows what the machine sent for the last coin and any signals not counted.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.25.0/RapTech.exe",
+  "size": 16303616,
+  "sha256": "10042f2afd220a744b27e57252688366512fa95820c4dbd80726aa29c36f5cb1",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.25.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "721675daf6ac329f22a80e82169dc128dca4b3d081243a855ee39fbb780a6aa6"
+  "helperSha256": "49e83fc40aa49455d7f4d33d4ed52665f056313ff4f179b215bfd331e9e66eb0"
 }
