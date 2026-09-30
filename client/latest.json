@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.25.0",
-  "released": "2026-09-29",
-  "notes": "Security: a terminal with its guard installed stays armed even if its settings file is lost, and while armed RapTech is protected from being closed, paused or changed from the customer's Windows account. The coin slot counts only signals that match the coin machine's own, pauses itself for a minute if more than 150 pesos go in within a minute, and no longer sometimes reads a 20-peso coin as 10. The Coin slot page shows what the machine sent for the last coin and any signals not counted.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.25.0/RapTech.exe",
-  "size": 16303616,
-  "sha256": "10042f2afd220a744b27e57252688366512fa95820c4dbd80726aa29c36f5cb1",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.25.0/systemRunTime.exe",
+  "version": "1.26.0",
+  "released": "2026-09-30",
+  "notes": "Lighter on the PC: game and store pictures are loaded at the size they are shown, which cuts the launcher's memory use sharply on shops with many posters. The screen no longer redraws the whole game list every second or while the timer is in the notification area, the Shelf look drops its blur effects, and the terminal does less background work while customers play.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.26.0/RapTech.exe",
+  "size": 16381440,
+  "sha256": "d5e4e4debb6645847b95214afa82cb0a646d7d7b296f84b30748d008cef20bdd",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.26.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "49e83fc40aa49455d7f4d33d4ed52665f056313ff4f179b215bfd331e9e66eb0"
+  "helperSha256": "cb1550cfee3951b42a824d3d86abdf17b4c277c31d46abfb80b12bb654b4d863"
 }
