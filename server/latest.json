@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.18.0",
-  "released": "2026-09-29",
-  "notes": "Books and Settings each hold two pages as tabs across the top: Books has Time sales and Store sales, and Settings has Counter and Client (formerly This counter and Client Terminal Setting). Each tab shows only to staff allowed to open it.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.18.0/RapTech-Server.exe",
-  "size": 14726656,
-  "sha256": "c2ae1df8183983b3dea5eb74d464b0089717dfe86bfe96d26571e45de1c73701"
+  "version": "1.19.0",
+  "released": "2026-09-30",
+  "notes": "Sessions has Deduct time again, in a window of its own, and each Sessions and Customers row keeps its buttons in one Options menu. The counter window now reaches the RapTech service it watches and restarts it after an update. The Monitor settings tick boxes no longer stretch across the window.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.19.0/RapTech-Server.exe",
+  "size": 14733824,
+  "sha256": "1911a8fe885a56daf1b83e0001b6fbdf231d3627b722d80723ef13dcf31a42f4"
 }
