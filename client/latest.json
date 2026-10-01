@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.26.0",
-  "released": "2026-09-30",
-  "notes": "Lighter on the PC: game and store pictures are loaded at the size they are shown, which cuts the launcher's memory use sharply on shops with many posters. The screen no longer redraws the whole game list every second or while the timer is in the notification area, the Shelf look drops its blur effects, and the terminal does less background work while customers play.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.26.0/RapTech.exe",
-  "size": 16381440,
-  "sha256": "d5e4e4debb6645847b95214afa82cb0a646d7d7b296f84b30748d008cef20bdd",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.26.0/systemRunTime.exe",
+  "version": "1.27.0",
+  "released": "2026-10-01",
+  "notes": "The staff password now starts blank: a new terminal, or one that never had a password set, opens the panel with the box empty and warns on every page until one is set under Security. Messages from the counter now appear on the timer card over the customer's game and stay until they press Close. The coin card's headline shows the whole amount on the meter instead of the last ₱1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.27.0/RapTech.exe",
+  "size": 16391168,
+  "sha256": "72838541a07f3c7746a784e69611cb17eb4e8eded7c222c122052bc2680400e9",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.27.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "cb1550cfee3951b42a824d3d86abdf17b4c277c31d46abfb80b12bb654b4d863"
+  "helperSha256": "7ff230248dacc7bcdec650dbe001e99364bc2c118fb703e91715ebdce527ecef"
 }
