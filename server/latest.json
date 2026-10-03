@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.22.0",
+  "version": "1.23.0",
   "released": "2026-10-04",
-  "notes": "Sessions has a new Credits tab under Lately: the latest coins and time added or taken at the counter, with who did it, for staff who can see the Books. The Customers page is now called Accounts, and the Customer columns across the dashboard say Account.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.22.0/RapTech-Server.exe",
-  "size": 14746624,
-  "sha256": "dbca63e91b43e1903f7d1f3f2d2bf7bea5a551900af62d8aff3b7ec6ac090d2f"
+  "notes": "Sessions: the Lately box is gone, and the Credits box is now Activity, with the columns Credits, Time bought and Total Time. Books: Clear the books is now Delete records, and it deletes only the records matching the period and filters on the page (moved aside in a file, never destroyed). Time sales' columns now read Credits and Total Time, and the Pick days date boxes sit on one line.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.23.0/RapTech-Server.exe",
+  "size": 14760960,
+  "sha256": "f94e801d3f5d9a58d182cc7db8082a9fd59e9b46d971d1108656133bd8a3b518"
 }
