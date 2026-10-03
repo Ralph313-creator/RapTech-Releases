@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.27.0",
-  "released": "2026-10-01",
-  "notes": "The staff password now starts blank: a new terminal, or one that never had a password set, opens the panel with the box empty and warns on every page until one is set under Security. Messages from the counter now appear on the timer card over the customer's game and stay until they press Close. The coin card's headline shows the whole amount on the meter instead of the last ₱1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.27.0/RapTech.exe",
-  "size": 16391168,
-  "sha256": "72838541a07f3c7746a784e69611cb17eb4e8eded7c222c122052bc2680400e9",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.27.0/systemRunTime.exe",
+  "version": "1.28.0",
+  "released": "2026-10-04",
+  "notes": "The launcher now gives its memory back while nobody can see it: put away in the notification area, minimised, or after a few seconds behind a fullscreen game. In the notification area it measured about 140MB instead of about 305MB, and it stops using the processor, so that memory goes to the games. Coming back to the launcher can show its dark background for a moment while it redraws.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.28.0/RapTech.exe",
+  "size": 16403456,
+  "sha256": "5c127801ec57d03b0d88c3a64a60e90ba057cc6d32a32dfadaa1b40e9a25bd8e",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.28.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "7ff230248dacc7bcdec650dbe001e99364bc2c118fb703e91715ebdce527ecef"
+  "helperSha256": "d77fd3f953c3b7c42a1e24b1ad2f4bf518ed2b76fcde603c3caaba81c763092f"
 }
