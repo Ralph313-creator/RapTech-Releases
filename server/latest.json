@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "released": "2026-10-04",
-  "notes": "Books can now be filtered by month, by a single day, or by a from–to range of days (Pick days…) on both Time sales and Store sales, and both tabs open on All sales. The totals tiles cover the whole period picked, not just the lines shown.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.21.0/RapTech-Server.exe",
-  "size": 14744576,
-  "sha256": "d4145a38a5d04f108c24448d2b44a6e2d464fe1c959e9bc19e861b04022d72cb"
+  "notes": "Sessions has a new Credits tab under Lately: the latest coins and time added or taken at the counter, with who did it, for staff who can see the Books. The Customers page is now called Accounts, and the Customer columns across the dashboard say Account.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.22.0/RapTech-Server.exe",
+  "size": 14746624,
+  "sha256": "dbca63e91b43e1903f7d1f3f2d2bf7bea5a551900af62d8aff3b7ec6ac090d2f"
 }
