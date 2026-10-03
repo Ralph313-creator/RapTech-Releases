@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.20.0",
-  "released": "2026-10-01",
-  "notes": "A new counter starts with no operator password — sign in with the box empty — and every page shows a banner to admins until one is set; a counter still on admin890 sees it too. The Customers table can be sorted by clicking any column heading.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.20.0/RapTech-Server.exe",
-  "size": 14738432,
-  "sha256": "e5dcb0e0a9b9c782ca80bb7f64fce5ad1a21f674fcba83fe807a2ea905ce8dc0"
+  "version": "1.21.0",
+  "released": "2026-10-04",
+  "notes": "Books can now be filtered by month, by a single day, or by a from–to range of days (Pick days…) on both Time sales and Store sales, and both tabs open on All sales. The totals tiles cover the whole period picked, not just the lines shown.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.21.0/RapTech-Server.exe",
+  "size": 14744576,
+  "sha256": "d4145a38a5d04f108c24448d2b44a6e2d464fe1c959e9bc19e861b04022d72cb"
 }
