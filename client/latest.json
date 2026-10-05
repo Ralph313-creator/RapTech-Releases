@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.28.0",
-  "released": "2026-10-04",
-  "notes": "The launcher now gives its memory back while nobody can see it: put away in the notification area, minimised, or after a few seconds behind a fullscreen game. In the notification area it measured about 140MB instead of about 305MB, and it stops using the processor, so that memory goes to the games. Coming back to the launcher can show its dark background for a moment while it redraws.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.28.0/RapTech.exe",
-  "size": 16403456,
-  "sha256": "5c127801ec57d03b0d88c3a64a60e90ba057cc6d32a32dfadaa1b40e9a25bd8e",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.28.0/systemRunTime.exe",
+  "version": "1.29.0",
+  "released": "2026-10-05",
+  "notes": "The ✕ on RapTech in Alt+Tab or on the taskbar now always puts the timer in the notification area, and the Close and minimise buttons option is gone. An ✕ button is back on the launcher's bar after the staff cog, putting the timer in the notification area with the time still running. The launcher keeps three layouts, Shelf, Modern and Arcade; a terminal set to Library or Deck switches to Shelf · Frost. The Show Desktop strip option on the Security page is removed and the strip is left alone. The launcher also stops drawing after five seconds behind any window that covers it, not only a fullscreen game.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.29.0/RapTech.exe",
+  "size": 16282624,
+  "sha256": "47d643835878c98faaa192652c6cf89cf40fe89a2a6930930351b640edf543ea",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.29.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "d77fd3f953c3b7c42a1e24b1ad2f4bf518ed2b76fcde603c3caaba81c763092f"
+  "helperSha256": "456c4089db466d37ba0ac30e0db7c449669bad678b62f8783c0ceef0cb01c2de"
 }
