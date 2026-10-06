@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.29.0",
-  "released": "2026-10-05",
-  "notes": "The ✕ on RapTech in Alt+Tab or on the taskbar now always puts the timer in the notification area, and the Close and minimise buttons option is gone. An ✕ button is back on the launcher's bar after the staff cog, putting the timer in the notification area with the time still running. The launcher keeps three layouts, Shelf, Modern and Arcade; a terminal set to Library or Deck switches to Shelf · Frost. The Show Desktop strip option on the Security page is removed and the strip is left alone. The launcher also stops drawing after five seconds behind any window that covers it, not only a fullscreen game.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.29.0/RapTech.exe",
-  "size": 16282624,
-  "sha256": "47d643835878c98faaa192652c6cf89cf40fe89a2a6930930351b640edf543ea",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.29.0/systemRunTime.exe",
+  "version": "1.30.0",
+  "released": "2026-10-06",
+  "notes": "Saving and loading game progress is simpler. Pressing a game's card loads the customer's progress, then starts the game about two seconds after it arrives; if the progress cannot load, the game starts anyway. Progress is saved whenever the game's save files change, and once more at sign-out and shutdown. RapTech no longer watches which programs are running: a game opened outside its card (for example from Steam's library) is not saved, the Games page no longer asks for a game's program, and the auto-save switch is gone because saving is always on. My saves asks the customer to close the game before loading or deleting.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.30.0/RapTech.exe",
+  "size": 16183808,
+  "sha256": "ffcb176a9b896256e69503cd30dbae3fa2e0241ed0dd705c0b42c5a3f4a01049",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.30.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "456c4089db466d37ba0ac30e0db7c449669bad678b62f8783c0ceef0cb01c2de"
+  "helperSha256": "965604984654eee9cc7fa8a3553470e9b4d4a2cf47a77663a045bba341da7995"
 }
