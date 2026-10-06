@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.32.0",
+  "version": "1.33.0",
   "released": "2026-10-07",
-  "notes": "My saves has a Save now button: on a game you started on this computer, it copies your progress to the shop straight away and keeps it as one of your saves. Each save in the Load window now has its own Delete, which removes just that save at every computer and keeps your latest progress and your other saves.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.32.0/RapTech.exe",
-  "size": 16210432,
-  "sha256": "7aa5158ccfeed1f4770b6a048eb97fd1b69b34abf4240c37703c8734a917b488",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.32.0/systemRunTime.exe",
+  "notes": "My saves is simpler: each game's card has Save now and a Save point button, which lists your last saves with a Load and a Delete on each one. The card's own Delete is gone, so saves are deleted one at a time.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.33.0/RapTech.exe",
+  "size": 16209408,
+  "sha256": "e35946c76a6a185dc6f3a1c89bed1831ff9f0aae245f0e97e9b7094554646cd6",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.33.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "cf45e0827c6a7d126bfb8498e411366b7284a40c1e46a467d0b3221a65df314a"
+  "helperSha256": "1ea3ed01136ae6f53a2c0494a3ae2a596367051c76e5723537719ef55d116713"
 }
