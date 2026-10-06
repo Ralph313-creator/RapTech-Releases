@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.24.0",
-  "released": "2026-10-05",
-  "notes": "Client settings: the launcher theme list offers only the Shelf, Modern and Arcade layouts. Library and Deck were removed from the terminal, and a terminal still set to one of them shows Shelf · Frost.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.24.0/RapTech-Server.exe",
-  "size": 14759936,
-  "sha256": "85338e38e41d89c573876bc167fe782d7f1fb1913333e9fbb27f23bc503a7c0f"
+  "version": "1.25.0",
+  "released": "2026-10-06",
+  "notes": "Maintenance release: unused code removed. Nothing changes in how the counter works. Goes with terminal 1.30.0, which simplifies saving and loading game progress.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.25.0/RapTech-Server.exe",
+  "size": 14757888,
+  "sha256": "f4b37dd800979d1d9f81b117082469cd467afa33b713d56ce5705685c6ab325f"
 }
