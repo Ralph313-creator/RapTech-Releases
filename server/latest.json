@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.25.0",
-  "released": "2026-10-06",
-  "notes": "Maintenance release: unused code removed. Nothing changes in how the counter works. Goes with terminal 1.30.0, which simplifies saving and loading game progress.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.25.0/RapTech-Server.exe",
-  "size": 14757888,
-  "sha256": "f4b37dd800979d1d9f81b117082469cd467afa33b713d56ce5705685c6ab325f"
+  "version": "1.26.0",
+  "released": "2026-10-07",
+  "notes": "Maintenance release: three dashboard routes no page used any more are removed, along with other unused code. Nothing changes in how the counter works. Goes with terminal 1.31.0, which loads game progress at sign-in.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.26.0/RapTech-Server.exe",
+  "size": 14746624,
+  "sha256": "8f6878604cd0b1a748b54ecbf78b628f92c7b5c84cad4086bae126ed1d8f1131"
 }
