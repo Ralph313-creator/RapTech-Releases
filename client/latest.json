@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.31.0",
+  "version": "1.32.0",
   "released": "2026-10-07",
-  "notes": "Game progress now comes down at sign-in: when a customer signs in, their saved progress for every game set to load is fetched straight away, behind a 'Loading your game progress' screen, so pressing a game's card afterwards starts it without waiting. The shared folder's 'works' line on the Shop data page is green again. Unused code removed.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.31.0/RapTech.exe",
-  "size": 16190976,
-  "sha256": "a47b392f6a03d1eb04099dc7e9f0ece778ccee42ef825f5010c04aab726bb44e",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.31.0/systemRunTime.exe",
+  "notes": "My saves has a Save now button: on a game you started on this computer, it copies your progress to the shop straight away and keeps it as one of your saves. Each save in the Load window now has its own Delete, which removes just that save at every computer and keeps your latest progress and your other saves.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.32.0/RapTech.exe",
+  "size": 16210432,
+  "sha256": "7aa5158ccfeed1f4770b6a048eb97fd1b69b34abf4240c37703c8734a917b488",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.32.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "bb58d550a1c4209b4722bb7c8065d57bf787b0031a4d7a862ab02a13f7872dfd"
+  "helperSha256": "cf45e0827c6a7d126bfb8498e411366b7284a40c1e46a467d0b3221a65df314a"
 }
