@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.34.0",
-  "released": "2026-10-07",
-  "notes": "Game progress is now saved for every game whose files change while you are signed in, not only games started from their card. A game opened another way (for example from Steam's library) is saved once its files change, unless you already have progress stored for it that was not loaded on this computer, so your real progress is never replaced by this computer's files.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.34.0/RapTech.exe",
-  "size": 16219648,
-  "sha256": "b319270169714044d3e6cbb2c7b13a33fcf2955706cdc28b325b788765f6e42c",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.34.0/systemRunTime.exe",
+  "version": "1.35.0",
+  "released": "2026-10-09",
+  "notes": "Coin slot fix: on Windows 11 the coin slot said its COM port did not exist even with the USB-to-RS232 driver installed; it now connects, and ports some cable drivers set up are listed too. The Coin slot page is simpler: choose the port, check it counts, with an Open Device Manager button, driver downloads for the common USB-to-RS232 cables and a wiring diagram for the coin slot. The Customization page is tidied so its settings line up. The Shop server page now says why it cannot switch between Server and Standalone mode while there is time running on the computer, and Save and join / Disconnect follow the same rule.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.35.0/RapTech.exe",
+  "size": 16430080,
+  "sha256": "1e84e0ee15ff0a83595f67d452f03a8c18db3b6d0f83ba82227110235a7a70a8",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.35.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "3028d49db23b45a7c3aa8ba1cc980169a7efc300f4c61232428d5061a0771083"
+  "helperSha256": "5b2df267c984d93cd2791541fedb7c8a5385b78c94c45dd9f620832c3f4561d0"
 }
