@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.35.0",
-  "released": "2026-10-09",
-  "notes": "Coin slot fix: on Windows 11 the coin slot said its COM port did not exist even with the USB-to-RS232 driver installed; it now connects, and ports some cable drivers set up are listed too. The Coin slot page is simpler: choose the port, check it counts, with an Open Device Manager button, driver downloads for the common USB-to-RS232 cables and a wiring diagram for the coin slot. The Customization page is tidied so its settings line up. The Shop server page now says why it cannot switch between Server and Standalone mode while there is time running on the computer, and Save and join / Disconnect follow the same rule.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.35.0/RapTech.exe",
-  "size": 16430080,
-  "sha256": "1e84e0ee15ff0a83595f67d452f03a8c18db3b6d0f83ba82227110235a7a70a8",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.35.0/systemRunTime.exe",
+  "version": "1.36.0",
+  "released": "2026-10-10",
+  "notes": "Game progress: signing in now brings down the customer's progress for every game the shop carries, and any game whose files change during the sitting is saved, played from its card or not. Save now is on every game in the customer's My saves panel; it still refuses a game whose saved progress could not be brought onto this computer, so nothing is saved over it. The Save location box has a Browse button. The Games and Store pages in the operator panel are lists instead of grids of cards. The Coin slot page offers the CH340 cable driver straight from WCH, and has steps for diskless PCs (give the cable the same COM port number on every PC) and for a port that is found but reads no coins.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.36.0/RapTech.exe",
+  "size": 16435200,
+  "sha256": "12c7ef757f4a6f9450c6aa17ebf3fa44ffaac7db5018261cefd08e1cac9c2b0b",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.36.0/systemRunTime.exe",
   "helperSize": 3292160,
-  "helperSha256": "5b2df267c984d93cd2791541fedb7c8a5385b78c94c45dd9f620832c3f4561d0"
+  "helperSha256": "c355a9e75a8d442a058506d6136e0a6c7d7ae81aa4226f55a4ec504a156fe9fc"
 }
