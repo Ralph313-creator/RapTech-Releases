@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.36.0",
-  "released": "2026-10-10",
-  "notes": "Game progress: signing in now brings down the customer's progress for every game the shop carries, and any game whose files change during the sitting is saved, played from its card or not. Save now is on every game in the customer's My saves panel; it still refuses a game whose saved progress could not be brought onto this computer, so nothing is saved over it. The Save location box has a Browse button. The Games and Store pages in the operator panel are lists instead of grids of cards. The Coin slot page offers the CH340 cable driver straight from WCH, and has steps for diskless PCs (give the cable the same COM port number on every PC) and for a port that is found but reads no coins.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.36.0/RapTech.exe",
-  "size": 16435200,
-  "sha256": "12c7ef757f4a6f9450c6aa17ebf3fa44ffaac7db5018261cefd08e1cac9c2b0b",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.36.0/systemRunTime.exe",
-  "helperSize": 3292160,
-  "helperSha256": "c355a9e75a8d442a058506d6136e0a6c7d7ae81aa4226f55a4ec504a156fe9fc"
+  "version": "1.37.0",
+  "released": "2026-10-12",
+  "notes": "Lock screen: this computer's name is shown large at the top, with the shop's logo in the bottom-left corner. The prices are behind a See rates button that opens the price list over the screen. The heading now reads \"Insert coin to continue\" (a heading the shop wrote itself is kept). The launcher's top bar shows this computer's name beside the logo instead of the shop's name. Password boxes where a customer signs in or unlocks their screen have an eye button to show what was typed.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.37.0/RapTech.exe",
+  "size": 16455168,
+  "sha256": "4af79a02e07b33587a6fe65e8c985b3c97d7e92bd590e99cd93a281c27fdb6fb",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.37.0/systemRunTime.exe",
+  "helperSize": 3293696,
+  "helperSha256": "a94bbfa2c3d83d818f5f841b3771592ae86605c077a8bce0c78c5195121a663a"
 }
