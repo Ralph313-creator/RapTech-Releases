@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.37.0",
+  "version": "1.38.0",
   "released": "2026-10-12",
-  "notes": "Lock screen: this computer's name is shown large at the top, with the shop's logo in the bottom-left corner. The prices are behind a See rates button that opens the price list over the screen. The heading now reads \"Insert coin to continue\" (a heading the shop wrote itself is kept). The launcher's top bar shows this computer's name beside the logo instead of the shop's name. Password boxes where a customer signs in or unlocks their screen have an eye button to show what was typed.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.37.0/RapTech.exe",
-  "size": 16455168,
-  "sha256": "4af79a02e07b33587a6fe65e8c985b3c97d7e92bd590e99cd93a281c27fdb6fb",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.37.0/systemRunTime.exe",
+  "notes": "Wallpapers: pick one picture or a slideshow for behind the launcher (Customization page), with fit, darkening and a highlight colour that follows each picture; text stays readable on light pictures. New right-click menu on the launcher: Refresh, Next/Back wallpaper, Show/Hide timer and Pin timer (the timer button left the account panel). A game card no longer opens twice: a running game is brought to the front, and browsers and Office may still open several (Allow multi instance on each card). Game progress: a sign-out whose upload fails keeps the files and retries, deleted saves are removed from the share, and a cut-off save falls back to the newest save point. The Games tab is now Apps & Games; cards drop the group label and no longer stretch. The launcher's look is now set on each computer, not by the counter. Uses less memory while hidden. Goes with counter 1.27.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.38.0/RapTech.exe",
+  "size": 16512512,
+  "sha256": "249f1e9fc81098e982a8a568a5af86dfe5bf8066556cc0e0a8032612f4d620f8",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.38.0/systemRunTime.exe",
   "helperSize": 3293696,
-  "helperSha256": "a94bbfa2c3d83d818f5f841b3771592ae86605c077a8bce0c78c5195121a663a"
+  "helperSha256": "e2621082dda92b6e3c7add7e737a75544deba69c7d7cefe80926140af574e380"
 }
