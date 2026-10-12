@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.38.0",
-  "released": "2026-10-12",
-  "notes": "Wallpapers: pick one picture or a slideshow for behind the launcher (Customization page), with fit, darkening and a highlight colour that follows each picture; text stays readable on light pictures. New right-click menu on the launcher: Refresh, Next/Back wallpaper, Show/Hide timer and Pin timer (the timer button left the account panel). A game card no longer opens twice: a running game is brought to the front, and browsers and Office may still open several (Allow multi instance on each card). Game progress: a sign-out whose upload fails keeps the files and retries, deleted saves are removed from the share, and a cut-off save falls back to the newest save point. The Games tab is now Apps & Games; cards drop the group label and no longer stretch. The launcher's look is now set on each computer, not by the counter. Uses less memory while hidden. Goes with counter 1.27.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.38.0/RapTech.exe",
-  "size": 16512512,
-  "sha256": "249f1e9fc81098e982a8a568a5af86dfe5bf8066556cc0e0a8032612f4d620f8",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.38.0/systemRunTime.exe",
+  "version": "1.39.0",
+  "released": "2026-10-13",
+  "notes": "Lock screen: the shop's logo is centred at the top again with this PC's name smaller under it. Wallpapers: a Slideshow tick to keep one picture up (Next/Back still step), Slide wallpaper on the right-click menu, and a signed-in customer can keep one of the shop's wallpapers as their own. The launcher stays behind other programs and comes forward when asked for (Win+D, Alt+Tab, its taskbar button, the tray icon); a launched program opens in front of it, and a pressed game card shows it is loading until the game's window is up. Max volume per computer, set from the counter. The launcher bar shows a Win+D hint and Time Rates. The wallpaper no longer changes the launcher's highlight colour. Goes with counter 1.28.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.0/RapTech.exe",
+  "size": 16553984,
+  "sha256": "7f8af7ab6bc96a57126d8265948481028db44eea16bf69370a0b72e60d1e3fc1",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.0/systemRunTime.exe",
   "helperSize": 3293696,
-  "helperSha256": "e2621082dda92b6e3c7add7e737a75544deba69c7d7cefe80926140af574e380"
+  "helperSha256": "104fe268e7429523fb325a3d5b681913b17a86ea5bd00d6330b833dd3d233f72"
 }
