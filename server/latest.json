@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.27.0",
-  "released": "2026-10-12",
-  "notes": "The launcher's look (theme, tiles, Home banner, most played first, launcher bar buttons) is no longer set from Settings > Client; each computer sets its own on its Customization page, and the counter stops sending those settings. Goes with terminal 1.38.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.27.0/RapTech-Server.exe",
-  "size": 14759424,
-  "sha256": "b1da748bcc561c4c7c01f63b17f11d823348721470ab7df51ca47ec964e4fc82"
+  "version": "1.28.0",
+  "released": "2026-10-13",
+  "notes": "Computers page: each card has a Max volume (admins only) that caps that PC's sound. A customer's own chosen wallpaper is kept on their account and follows them to any seat. Goes with terminal 1.39.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.28.0/RapTech-Server.exe",
+  "size": 14776320,
+  "sha256": "4c84306688a140b7bc91eeeced1f672f7b5164616bfe9a24ea43ee505b039d36"
 }
