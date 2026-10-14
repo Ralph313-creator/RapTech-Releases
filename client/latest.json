@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.39.1",
+  "version": "1.40.0",
   "released": "2026-10-14",
-  "notes": "The launcher saves memory and CPU the moment another program has the focus: it stops drawing at once instead of after five seconds, and no longer only when fully covered. It wakes as soon as it is clicked, alt-tabbed to or brought back from the tray. Never while the lock screen is up or staff are in the operator panel. Goes with counter 1.28.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.1/RapTech.exe",
-  "size": 16535040,
-  "sha256": "5e8d66438d5923eec81be0b4e9d1884cc1364023887f8a462970085e794fbf39",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.1/systemRunTime.exe",
+  "notes": "Saving resources: by default the launcher stops drawing and gives back memory the moment a fullscreen game or maximised window takes the focus over it, with no wait. A new Super save box on the System page does that whenever any other program has the focus (a small window too), as 1.39.1 did. Never while the lock screen is up or staff are in the operator panel. Goes with counter 1.28.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.40.0/RapTech.exe",
+  "size": 16536064,
+  "sha256": "0ea602494ca3bdc4ffb75fa55b738a7027ffc777912d36033d3d4ecd6e9b57e5",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.40.0/systemRunTime.exe",
   "helperSize": 3292672,
-  "helperSha256": "c52640d7c901b4d5f89aa21fd67055578cc873bccc2c8a69d55fa0fb53ce5a90"
+  "helperSha256": "37f41698db452a4088835febcfb6c0a824386a1776d515b0007af0be30110814"
 }
