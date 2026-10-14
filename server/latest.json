@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.28.0",
-  "released": "2026-10-13",
-  "notes": "Computers page: each card has a Max volume (admins only) that caps that PC's sound. A customer's own chosen wallpaper is kept on their account and follows them to any seat. Goes with terminal 1.39.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.28.0/RapTech-Server.exe",
-  "size": 14776320,
-  "sha256": "4c84306688a140b7bc91eeeced1f672f7b5164616bfe9a24ea43ee505b039d36"
+  "version": "1.28.1",
+  "released": "2026-10-14",
+  "notes": "Faster counter on a busy, long-running shop: each terminal's heartbeat no longer copies the whole chat, store book and ledger history, so its cost stays the same however old the shop's books get (on a shop a year in it went from about 2 ms and 8 MB of memory per heartbeat to almost nothing). No change to how anything works. Goes with terminal 1.40.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.28.1/RapTech-Server.exe",
+  "size": 14762496,
+  "sha256": "155643862baa4b5b2413e0fe8bb5c8a5d8a6513bcede5bd40260195ba893c4a8"
 }
