@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.39.0",
-  "released": "2026-10-13",
-  "notes": "Lock screen: the shop's logo is centred at the top again with this PC's name smaller under it. Wallpapers: a Slideshow tick to keep one picture up (Next/Back still step), Slide wallpaper on the right-click menu, and a signed-in customer can keep one of the shop's wallpapers as their own. The launcher stays behind other programs and comes forward when asked for (Win+D, Alt+Tab, its taskbar button, the tray icon); a launched program opens in front of it, and a pressed game card shows it is loading until the game's window is up. Max volume per computer, set from the counter. The launcher bar shows a Win+D hint and Time Rates. The wallpaper no longer changes the launcher's highlight colour. Goes with counter 1.28.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.0/RapTech.exe",
-  "size": 16553984,
-  "sha256": "7f8af7ab6bc96a57126d8265948481028db44eea16bf69370a0b72e60d1e3fc1",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.0/systemRunTime.exe",
-  "helperSize": 3293696,
-  "helperSha256": "104fe268e7429523fb325a3d5b681913b17a86ea5bd00d6330b833dd3d233f72"
+  "version": "1.39.1",
+  "released": "2026-10-14",
+  "notes": "The launcher saves memory and CPU the moment another program has the focus: it stops drawing at once instead of after five seconds, and no longer only when fully covered. It wakes as soon as it is clicked, alt-tabbed to or brought back from the tray. Never while the lock screen is up or staff are in the operator panel. Goes with counter 1.28.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.1/RapTech.exe",
+  "size": 16535040,
+  "sha256": "5e8d66438d5923eec81be0b4e9d1884cc1364023887f8a462970085e794fbf39",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.39.1/systemRunTime.exe",
+  "helperSize": 3292672,
+  "helperSha256": "c52640d7c901b4d5f89aa21fd67055578cc873bccc2c8a69d55fa0fb53ce5a90"
 }
