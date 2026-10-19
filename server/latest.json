@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.28.1",
-  "released": "2026-10-14",
-  "notes": "Faster counter on a busy, long-running shop: each terminal's heartbeat no longer copies the whole chat, store book and ledger history, so its cost stays the same however old the shop's books get (on a shop a year in it went from about 2 ms and 8 MB of memory per heartbeat to almost nothing). No change to how anything works. Goes with terminal 1.40.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.28.1/RapTech-Server.exe",
-  "size": 14762496,
-  "sha256": "155643862baa4b5b2413e0fe8bb5c8a5d8a6513bcede5bd40260195ba893c4a8"
+  "version": "1.29.0",
+  "released": "2026-10-20",
+  "notes": "Free use now ends with the session: sign-out, signing in at another PC, ending it from the dashboard, or the terminal going quiet after a restart or power cut. It no longer stays on the account for the customer's next visit. Free use given from the customer book before they arrive still waits for their sign-in. Goes with client 1.42.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.29.0/RapTech-Server.exe",
+  "size": 14768640,
+  "sha256": "1196308d4c28c346ebbc7236b16368864e06d46df7e7d000c6042fc78744f756"
 }
