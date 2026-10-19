@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.40.1",
-  "released": "2026-10-14",
-  "notes": "Smaller watchdog: systemRunTime.exe is 2.1 MB instead of 3.3 MB, with its debug data stripped as RapTech.exe's already was, so it downloads faster. The new one takes over the next time the watchdog service starts. Nothing else changed. Goes with counter 1.28.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.40.1/RapTech.exe",
-  "size": 16536064,
-  "sha256": "86e1662354a74d0f822bb77bd5e3aa59e98476fb4551ff82bf78b495c8f05914",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.40.1/systemRunTime.exe",
+  "version": "1.41.0",
+  "released": "2026-10-20",
+  "notes": "Xbox controller support in the launcher: the D-pad or left stick moves between buttons (hold to keep moving), A presses and B goes back or closes a panel. It works on the Home row, the game grid, the tabs, the store and the customer's panels, only while the launcher is the window in front, never in the staff panel. Nothing else changed.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.41.0/RapTech.exe",
+  "size": 16540160,
+  "sha256": "8eb4e8a43dded72ca93892bd8b1ade55f67ba2c5fb9ca7103fa651f808b3ff87",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.41.0/systemRunTime.exe",
   "helperSize": 2102272,
-  "helperSha256": "8d98510d375b4616baa15dddc87c794474fb140d2f109c0a0ced373b899339b5"
+  "helperSha256": "50b408307cb7a01e8d51d0c8ae7a3f631a8bfcf9d60d192208acafca64649f61"
 }
