@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.41.0",
+  "version": "1.42.0",
   "released": "2026-10-20",
-  "notes": "Xbox controller support in the launcher: the D-pad or left stick moves between buttons (hold to keep moving), A presses and B goes back or closes a panel. It works on the Home row, the game grid, the tabs, the store and the customer's panels, only while the launcher is the window in front, never in the staff panel. Nothing else changed.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.41.0/RapTech.exe",
-  "size": 16540160,
-  "sha256": "8eb4e8a43dded72ca93892bd8b1ade55f67ba2c5fb9ca7103fa651f808b3ff87",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.41.0/systemRunTime.exe",
+  "notes": "Free use now ends when the customer signs out, or when RapTech is closed, restarted, killed or the PC loses power. It no longer stays on their account and opens the next PC they sit at. Free use given from the customer book before they arrive still waits for their sign-in. Goes with counter 1.29.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.42.0/RapTech.exe",
+  "size": 16541184,
+  "sha256": "4d30d7629a0ac0988ad2d6c29e1325dcbccb4584b024015c25d5d7ac5259fe34",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.42.0/systemRunTime.exe",
   "helperSize": 2102272,
-  "helperSha256": "50b408307cb7a01e8d51d0c8ae7a3f631a8bfcf9d60d192208acafca64649f61"
+  "helperSha256": "f2cc08e74c17fc8129e881210c1737d405f864dcc8732cea9a5a68dd4f82e641"
 }
