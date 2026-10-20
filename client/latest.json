@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.44.0",
-  "released": "2026-10-20",
-  "notes": "Accepts license keys issued from now on. Keys you already have keep working. Update the counter to 1.32.0 too.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.44.0/RapTech.exe",
-  "size": 16555008,
-  "sha256": "32efa9e175871fe0d66bbe31f8e02d164ac82c6007d142778e8e0b2b14bd7430",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.44.0/systemRunTime.exe",
+  "version": "1.45.0",
+  "released": "2026-10-21",
+  "notes": "Pictures you add to the menu are made smaller before they are saved, so the menu loads faster on every PC. A new install starts standalone until you enter the counter's address; terminals already set up keep theirs. Goes with counter 1.32.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.45.0/RapTech.exe",
+  "size": 16557056,
+  "sha256": "309d63116fdf749d195e55d06c124d7161c282339a98a76e864adb9ec0cb0bf1",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.45.0/systemRunTime.exe",
   "helperSize": 2102272,
-  "helperSha256": "dc4e6c0a2cf3a032e3f678e138cd150b87fab9e13b7b9facec767e3e5f4420a2"
+  "helperSha256": "b831d281a422822f0090d55e22b0fd82fc34a8f69bc1be79edecdf2760cdab3d"
 }
