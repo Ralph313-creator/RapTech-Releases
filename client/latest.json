@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.43.0",
+  "version": "1.43.1",
   "released": "2026-10-20",
-  "notes": "The counter no longer shows a customer signed in on a PC nobody is using: End session on the terminal, End free from the counter and being signed out by the counter now all end the session at the counter too. End session on the terminal keeps a signed-in customer's time on their account, the same as the counter's End session; only walk-in time is wiped. A coin dropped just before signing out now goes to that customer's account, never the next customer's. Customers now see a card over their game when the counter adds time to their PC. A walk-in can reset the walk-in clock from their own account menu, after a confirmation. Goes with counter 1.30.0 (needed for the card when time is added to an account).",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.43.0/RapTech.exe",
-  "size": 16548864,
-  "sha256": "6157b5648d6789c4a72ae2585c8c8d04d0990e5af3d32b67d955423f8d2cd948",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.43.0/systemRunTime.exe",
+  "notes": "The card shown over a game when the counter adds time no longer cuts off its message: it now reads \"30 minutes added\" with \"From the counter\" under it. The menu now fills the whole screen with the taskbar drawn over it, so there is no empty band at the bottom after Alt+Tab when the taskbar is hidden or Explorer is not running; the menu's buttons and games stay clear of the taskbar when it is showing. Works with counter 1.30.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.43.1/RapTech.exe",
+  "size": 16553984,
+  "sha256": "0c1de8cc07dba76923942033a3fd7b8e5ac3b655982f38959c81b980cd957789",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.43.1/systemRunTime.exe",
   "helperSize": 2102272,
-  "helperSha256": "9960fb1a75f925466676b8221ed942205fdef95854e27640dd28ab863317b4bb"
+  "helperSha256": "bed1956284ee03267c2efe1345e03a853783a304af59cf0f44d2af850f469d25"
 }
