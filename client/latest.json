@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.43.2",
+  "version": "1.44.0",
   "released": "2026-10-20",
-  "notes": "Fixes a customer staying signed in on the counter's Computers page for up to 10 minutes after their PC restarted (power cut, reset or Windows restart), while the PC itself sat at its lock screen. The PC now tells the counter straight away. Works with counter 1.30.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.43.2/RapTech.exe",
-  "size": 16554496,
-  "sha256": "625f48783ef3bca74802e7b2d47ff3c028ed274bff7d416ed970cfde92f4e281",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.43.2/systemRunTime.exe",
+  "notes": "Accepts license keys issued from now on. Keys you already have keep working. Update the counter to 1.32.0 too.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.44.0/RapTech.exe",
+  "size": 16555008,
+  "sha256": "32efa9e175871fe0d66bbe31f8e02d164ac82c6007d142778e8e0b2b14bd7430",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.44.0/systemRunTime.exe",
   "helperSize": 2102272,
-  "helperSha256": "dc9064183b3e1941339e1552ac723e0a2c0bf8272f984c273d118675ff1973c3"
+  "helperSha256": "dc4e6c0a2cf3a032e3f678e138cd150b87fab9e13b7b9facec767e3e5f4420a2"
 }
