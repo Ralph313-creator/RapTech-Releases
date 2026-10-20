@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.30.0",
+  "version": "1.30.1",
   "released": "2026-10-20",
-  "notes": "When the counter adds time to a signed-in customer's account, their PC is now told so it can show the customer a card over their game. A note in the code about End free was corrected: the terminal ends the session itself. Goes with client 1.43.0, which also fixes PCs that showed a customer signed in when nobody was there.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.30.0/RapTech-Server.exe",
-  "size": 14769664,
-  "sha256": "dc7c868e3d7367fdf477401eefdc1ac1bedbaaae16fd20a80bc0689b5087f8ff"
+  "notes": "When a PC connects with nobody signed in, the counter now ends any session it still had open on that PC, so a customer no longer shows as signed in on a computer that restarted. Works with terminal 1.43.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.30.1/RapTech-Server.exe",
+  "size": 14772736,
+  "sha256": "c431a476686b4ce6077025b32f7a99ebc3c32add95043e557cba82a82a6fed57"
 }
