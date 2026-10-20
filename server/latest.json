@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.30.1",
+  "version": "1.31.0",
   "released": "2026-10-20",
-  "notes": "When a PC connects with nobody signed in, the counter now ends any session it still had open on that PC, so a customer no longer shows as signed in on a computer that restarted. Works with terminal 1.43.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.30.1/RapTech-Server.exe",
-  "size": 14772736,
-  "sha256": "c431a476686b4ce6077025b32f7a99ebc3c32add95043e557cba82a82a6fed57"
+  "notes": "A counter screen that nobody uses for 15 minutes now signs itself out, and the sign-in box says why. Moving the mouse, typing or touching the screen keeps it signed in; the pages refreshing on their own do not. The owner can change the minutes, or switch it off with 0, under Settings → Counter → Idle sign-out. Works with terminal 1.43.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.31.0/RapTech-Server.exe",
+  "size": 14785024,
+  "sha256": "b204a79299a7285f4e0f734d136d34e8dca5a4052620968c77927286be1717c7"
 }
