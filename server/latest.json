@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.32.0",
-  "released": "2026-10-20",
-  "notes": "Accepts license keys issued from now on. Keys you already have keep working. Update the terminals to 1.44.0 too.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.32.0/RapTech-Server.exe",
+  "version": "1.32.1",
+  "released": "2026-10-23",
+  "notes": "The sign-in screen no longer shows a message after the dashboard signs out for being left alone. Goes with terminals on 1.45.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.32.1/RapTech-Server.exe",
   "size": 14785536,
-  "sha256": "aadcf93066d9f590dc0c35d954460463cc5246d5001e71019a0cc00aea451779"
+  "sha256": "7a806f66f212da0d77dc36d31ee3f8f1e743370fb2833edc272b51a54a854910"
 }
