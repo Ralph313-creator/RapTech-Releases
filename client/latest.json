@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.45.0",
-  "released": "2026-10-21",
-  "notes": "Pictures you add to the menu are made smaller before they are saved, so the menu loads faster on every PC. A new install starts standalone until you enter the counter's address; terminals already set up keep theirs. Goes with counter 1.32.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.45.0/RapTech.exe",
-  "size": 16557056,
-  "sha256": "309d63116fdf749d195e55d06c124d7161c282339a98a76e864adb9ec0cb0bf1",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.45.0/systemRunTime.exe",
+  "version": "1.46.0",
+  "released": "2026-10-26",
+  "notes": "New coin tester on the Coin slot page: drop a coin, answer Exact, Less or More, and the coin slot's setting adjusts itself; it warns when the coin slot may be damaged. Coins dropped while testing are not sales and are not recorded. Goes with counter 1.32.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.46.0/RapTech.exe",
+  "size": 16586240,
+  "sha256": "82f56642c1282802266cb683133e3a6bff8277373da6b40d9b3e5667dd47f736",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.46.0/systemRunTime.exe",
   "helperSize": 2102272,
-  "helperSha256": "b831d281a422822f0090d55e22b0fd82fc34a8f69bc1be79edecdf2760cdab3d"
+  "helperSha256": "f965e7ec6d29a0849da8bb1a7ec2b2d8c26194c2b6aacdae6f81b9bb0f82d372"
 }
