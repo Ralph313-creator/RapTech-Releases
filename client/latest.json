@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.46.0",
-  "released": "2026-10-26",
-  "notes": "New coin tester on the Coin slot page: drop a coin, answer Exact, Less or More, and the coin slot's setting adjusts itself; it warns when the coin slot may be damaged. Coins dropped while testing are not sales and are not recorded. Goes with counter 1.32.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.46.0/RapTech.exe",
-  "size": 16586240,
-  "sha256": "82f56642c1282802266cb683133e3a6bff8277373da6b40d9b3e5667dd47f736",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.46.0/systemRunTime.exe",
-  "helperSize": 2102272,
-  "helperSha256": "f965e7ec6d29a0849da8bb1a7ec2b2d8c26194c2b6aacdae6f81b9bb0f82d372"
+  "version": "1.47.0",
+  "released": "2026-10-28",
+  "notes": "The Windows Start button is replaced by a RapTech button while the computer is locked down and no staff are signed in: pressing it, the Windows key or Ctrl+Esc brings the RapTech menu forward instead of the Start menu. Signing in as staff or switching Security off brings the Windows Start button back, and so does closing RapTech; if RapTech stops unexpectedly it comes back at the latest when RapTech starts again. The taskbar no longer goes behind the RapTech menu when the menu is brought forward. Goes with counter 1.32.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.47.0/RapTech.exe",
+  "size": 16623104,
+  "sha256": "f616224c09d221ef3bc29083dbfb3443525bcb79d19c7735433a6117b2f3a75b",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.47.0/systemRunTime.exe",
+  "helperSize": 2253312,
+  "helperSha256": "3e4e523109d978bdf50ef8708b770fe45ebf8e1c84e33932f8caabd1215dac34"
 }
