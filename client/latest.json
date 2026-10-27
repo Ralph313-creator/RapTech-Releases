@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.48.0",
+  "version": "1.48.1",
   "released": "2026-10-28",
-  "notes": "New switch on the Security tab: RapTech button in place of Start. On (the default) keeps the RapTech button where the Windows Start button was, as in 1.47.0; off keeps the normal Windows Start button and Windows key on that computer even while security is on. Goes with counter 1.32.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.0/RapTech.exe",
-  "size": 16624640,
-  "sha256": "43467893975291d8ae2426404be686b09617893f6c112263e807dfb617ae21cf",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.0/systemRunTime.exe",
+  "notes": "Windows 11: the RapTech button now fully covers the Windows Start button, so the Windows logo no longer shows beside it. Goes with counter 1.32.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.1/RapTech.exe",
+  "size": 16646144,
+  "sha256": "65d4c8cf6241e6687d358d1dd6a911cba0d604a101e78ae0bb09b960e7e50eb9",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.1/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "3c0d8495260edf7b2c6178036ac1f781baa3ae2aa1044f7f89b73a96e47ffc18"
+  "helperSha256": "6fd72e102985e1a9822e16bcf3b7c29900a21599fac14cb7b5d336893e98255a"
 }
