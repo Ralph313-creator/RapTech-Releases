@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.47.0",
+  "version": "1.48.0",
   "released": "2026-10-28",
-  "notes": "The Windows Start button is replaced by a RapTech button while the computer is locked down and no staff are signed in: pressing it, the Windows key or Ctrl+Esc brings the RapTech menu forward instead of the Start menu. Signing in as staff or switching Security off brings the Windows Start button back, and so does closing RapTech; if RapTech stops unexpectedly it comes back at the latest when RapTech starts again. The taskbar no longer goes behind the RapTech menu when the menu is brought forward. Goes with counter 1.32.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.47.0/RapTech.exe",
-  "size": 16623104,
-  "sha256": "f616224c09d221ef3bc29083dbfb3443525bcb79d19c7735433a6117b2f3a75b",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.47.0/systemRunTime.exe",
+  "notes": "New switch on the Security tab: RapTech button in place of Start. On (the default) keeps the RapTech button where the Windows Start button was, as in 1.47.0; off keeps the normal Windows Start button and Windows key on that computer even while security is on. Goes with counter 1.32.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.0/RapTech.exe",
+  "size": 16624640,
+  "sha256": "43467893975291d8ae2426404be686b09617893f6c112263e807dfb617ae21cf",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "3e4e523109d978bdf50ef8708b770fe45ebf8e1c84e33932f8caabd1215dac34"
+  "helperSha256": "3c0d8495260edf7b2c6178036ac1f781baa3ae2aa1044f7f89b73a96e47ffc18"
 }
