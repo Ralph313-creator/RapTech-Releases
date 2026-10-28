@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.32.2",
+  "version": "1.33.0",
   "released": "2026-10-28",
-  "notes": "Fixes the \"License needed — this counter's free month is over\" banner showing on a counter whose key never runs out. Goes with terminal 1.47.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.32.2/RapTech-Server.exe",
-  "size": 14786048,
-  "sha256": "a9664c526160f7d96916af75d7cf40eda2c0200cda5c42ab7c37bf16f2b5189e"
+  "notes": "New Allow join switch on the Computers page: new computers are let in as they register, and it turns itself back on whenever the counter restarts. The counter now answers terminals looking for it on the network, and keeps each computer's coin slot settings so a diskless PC gets them back after a restart. Goes with terminal 1.49.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.33.0/RapTech-Server.exe",
+  "size": 14811648,
+  "sha256": "d86030e934db573cd65bf71e83903718513f896d8fde10056832bc57b4467aa8"
 }
