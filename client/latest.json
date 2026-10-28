@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.48.2",
+  "version": "1.49.0",
   "released": "2026-10-28",
-  "notes": "The RapTech button no longer shows over a fullscreen game, and on Windows 11 the Windows Start logo no longer peeks out beside it. Goes with counter 1.32.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.2/RapTech.exe",
-  "size": 16650240,
-  "sha256": "135e321f4588f47d61a69baa81385f32232715d5b45f31b01e22d833bffd0ff1",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.2/systemRunTime.exe",
+  "notes": "Diskless PCs keep their own coin slot port: it is saved per PC and, with a counter, kept on the counter and handed back after every restart. A PC with no counter address now finds the counter on the network by itself and joins it. The countdown no longer pauses while a save waits on a slow network disk. Goes with counter 1.33.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.49.0/RapTech.exe",
+  "size": 16704512,
+  "sha256": "08c7a68554abee141b9b7f322df83185a31b8a5ee7762b587259aadda6896ffa",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.49.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "11e57f02ebcd946d283eef3254cea965e3b6a88b14e487207892183e84cf13ae"
+  "helperSha256": "399f6a614c237cb950c2f465e59f915dca7f425e941f48288e6719591e939263"
 }
