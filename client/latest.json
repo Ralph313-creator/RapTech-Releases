@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.48.1",
+  "version": "1.48.2",
   "released": "2026-10-28",
-  "notes": "Windows 11: the RapTech button now fully covers the Windows Start button, so the Windows logo no longer shows beside it. Goes with counter 1.32.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.1/RapTech.exe",
-  "size": 16646144,
-  "sha256": "65d4c8cf6241e6687d358d1dd6a911cba0d604a101e78ae0bb09b960e7e50eb9",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.1/systemRunTime.exe",
+  "notes": "The RapTech button no longer shows over a fullscreen game, and on Windows 11 the Windows Start logo no longer peeks out beside it. Goes with counter 1.32.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.2/RapTech.exe",
+  "size": 16650240,
+  "sha256": "135e321f4588f47d61a69baa81385f32232715d5b45f31b01e22d833bffd0ff1",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.48.2/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "6fd72e102985e1a9822e16bcf3b7c29900a21599fac14cb7b5d336893e98255a"
+  "helperSha256": "11e57f02ebcd946d283eef3254cea965e3b6a88b14e487207892183e84cf13ae"
 }
