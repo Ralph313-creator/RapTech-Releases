@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.49.0",
+  "version": "1.50.0",
   "released": "2026-10-28",
-  "notes": "Diskless PCs keep their own coin slot port: it is saved per PC and, with a counter, kept on the counter and handed back after every restart. A PC with no counter address now finds the counter on the network by itself and joins it. The countdown no longer pauses while a save waits on a slow network disk. Goes with counter 1.33.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.49.0/RapTech.exe",
-  "size": 16704512,
-  "sha256": "08c7a68554abee141b9b7f322df83185a31b8a5ee7762b587259aadda6896ffa",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.49.0/systemRunTime.exe",
+  "notes": "Coins are counted reliably even while a game keeps the computer busy: the coin slot is read every millisecond, a coin is never cut short when the slot shuts for a minute, and the slot only opens when the shop's rules allow it. The taskbar stays after Alt+Tab out of a fullscreen game or browser. The Coin slot page shows how well the coin slot is being read. Goes with counter 1.34.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.0/RapTech.exe",
+  "size": 16737280,
+  "sha256": "f2c1445bbe7a8c1abe41aae39a6facb4a88a22adc465b189e2636d39cde3edba",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "399f6a614c237cb950c2f465e59f915dca7f425e941f48288e6719591e939263"
+  "helperSha256": "dae8cffed339a4e3b636722bac4040d8444715c844c49bb0cdae41fe96d795b9"
 }
