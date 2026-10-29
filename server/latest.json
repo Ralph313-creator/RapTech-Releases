@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.35.0",
+  "version": "1.36.0",
   "released": "2026-10-29",
-  "notes": "Easier to get around the counter. Click any computer on Overview, Computers or Sessions to open a panel with its actions: the rate card as buttons, add or deduct time, open or end the session, restart or shut down. The Needs a look tile opens just those computers. Settings has a list of its sections down the left that jumps to each one, and Sign out now fits on the counter's screen. Goes with terminal 1.50.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.35.0/RapTech-Server.exe",
-  "size": 14827008,
-  "sha256": "8584102e3e162f820f2985c3480c41c88cac5f6eff9eef152089b852b438fd7a"
+  "notes": "Better on a phone. Overview and Sessions show each computer as a card, so nothing needs scrolling sideways, and tapping a card opens its actions. The Options button on Sessions is gone: tap the row instead. Goes with terminal 1.50.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.36.0/RapTech-Server.exe",
+  "size": 14826496,
+  "sha256": "5ad16bd7c8d44a516f0efd98100e1cdbf50e1a6f34416e7baca2ccdcfb7efa5a"
 }
