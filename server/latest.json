@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.38.0",
-  "released": "2026-10-29",
-  "notes": "The counter can now be updated from the dashboard in any browser, by the owner account, not only on the counter PC. The computer cards no longer have their own Restart and Shut down buttons; they are in the panel that opens when you click a computer. Goes with client 1.50.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.38.0/RapTech-Server.exe",
-  "size": 14840832,
-  "sha256": "5bf91972e9985245385e665e72f76b7b4a5ac6ae8d810211293ce341c7e1a75b"
+  "version": "1.39.0",
+  "released": "2026-10-30",
+  "notes": "On the Accounts page, click a customer's row to open their panel (password, curfew, ban, delete), the same as clicking a computer; the Options button is gone. Free session is no longer given from an account; give it from the computer's panel instead. Goes with client 1.50.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.39.0/RapTech-Server.exe",
+  "size": 14839296,
+  "sha256": "38a0869c731110a3c22d470717f8d405ebdafaf261792513783c933609f1090f"
 }
