@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.51.0",
+  "version": "1.52.0",
   "released": "2026-10-30",
-  "notes": "On a PC with security on, a browser tab whose title has a porn site name or a sexual word (English or Tagalog) is closed, only that tab, and the customer is told why on the timer. Apps the shop adds to the watch are closed whole. Not while staff are signed in, and not on the counter PC. Set it on the counter's Client page under Blocked content. Goes with counter 1.40.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.51.0/RapTech.exe",
-  "size": 16763904,
-  "sha256": "9b87a1b9796d23223d9f53e803d91d28569e750e834e67d9f679251aaf772f32",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.51.0/systemRunTime.exe",
+  "notes": "Right-click the RapTech button (where Start was) for a menu like Windows' own: Open Windows Start menu, Task Manager, Settings, File Explorer, Search, Shut down or sign out, Desktop, and admin tools the shop can switch on. The shop picks the items on the counter's Client page. The blocked-content settings now show the built-in word list and the browsers always watched. Goes with counter 1.41.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.0/RapTech.exe",
+  "size": 16782336,
+  "sha256": "e805f23bc74b5ceb3a20a1a1eeebc29ddd8688c4a7b08d05cb291a018a87528f",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "b9f534e76d23af37201fc4a1c157a8e753e367243c45ffa183e1acb3389736a7"
+  "helperSha256": "ca472b426bf82ab99150fded1fb69bd24f734246fdb0641c97b7fe5999483ccf"
 }
