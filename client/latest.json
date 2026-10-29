@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.50.0",
-  "released": "2026-10-28",
-  "notes": "Coins are counted reliably even while a game keeps the computer busy: the coin slot is read every millisecond, a coin is never cut short when the slot shuts for a minute, and the slot only opens when the shop's rules allow it. The taskbar stays after Alt+Tab out of a fullscreen game or browser. The Coin slot page shows how well the coin slot is being read. Goes with counter 1.34.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.0/RapTech.exe",
-  "size": 16737280,
-  "sha256": "f2c1445bbe7a8c1abe41aae39a6facb4a88a22adc465b189e2636d39cde3edba",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.0/systemRunTime.exe",
+  "version": "1.50.1",
+  "released": "2026-10-29",
+  "notes": "The taskbar now comes back over the launcher after Alt+Tab out of a fullscreen game, the way it does over the Windows desktop. Goes with counter 1.37.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.1/RapTech.exe",
+  "size": 16740864,
+  "sha256": "9795cb13d44e072769beae7856b96812c9f4c735343ec1c645b225db21698304",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.1/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "dae8cffed339a4e3b636722bac4040d8444715c844c49bb0cdae41fe96d795b9"
+  "helperSha256": "8a469278f70e2a6b01e8b36ff46a883184619a5adbeb6e5d46a69a8a746d7407"
 }
