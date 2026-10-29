@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.52.0",
+  "version": "1.52.1",
   "released": "2026-10-30",
-  "notes": "Right-click the RapTech button (where Start was) for a menu like Windows' own: Open Windows Start menu, Task Manager, Settings, File Explorer, Search, Shut down or sign out, Desktop, and admin tools the shop can switch on. The shop picks the items on the counter's Client page. The blocked-content settings now show the built-in word list and the browsers always watched. Goes with counter 1.41.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.0/RapTech.exe",
-  "size": 16782336,
-  "sha256": "e805f23bc74b5ceb3a20a1a1eeebc29ddd8688c4a7b08d05cb291a018a87528f",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.0/systemRunTime.exe",
+  "notes": "The taskbar comes back over the RapTech menu after Alt+Tab out of a fullscreen game. The blocked words and watched browsers are now an editable list: delete a word to unblock it, delete a browser to stop watching it, or reset to the built-in list. The PC's log is kept in RapTech-client.log in the temp folder. Goes with counter 1.41.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.1/RapTech.exe",
+  "size": 16786944,
+  "sha256": "2912ce04c5f14ccfb12a319a5dd3a330da943aa2a0bfbd109e09044343d7cb7e",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.1/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "ca472b426bf82ab99150fded1fb69bd24f734246fdb0641c97b7fe5999483ccf"
+  "helperSha256": "1637437adea873039fd3cb88268926af969bbdf50572436bcc3825b759e521d1"
 }
