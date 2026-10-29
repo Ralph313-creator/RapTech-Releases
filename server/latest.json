@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.37.0",
+  "version": "1.38.0",
   "released": "2026-10-29",
-  "notes": "A short note now pops up in the corner when something you did from the counter has gone through, such as Added 30 min to PC-3 or Restarting PC-5, or says why it did not. It covers adding, deducting and selling time, opening and ending sessions, and restart and shut down. Goes with terminal 1.50.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.37.0/RapTech-Server.exe",
-  "size": 14829056,
-  "sha256": "a199f0d79e586eb46341b98cb0969072fbf8de3abddf52b96944cc7f7b06baed"
+  "notes": "The counter can now be updated from the dashboard in any browser, by the owner account, not only on the counter PC. The computer cards no longer have their own Restart and Shut down buttons; they are in the panel that opens when you click a computer. Goes with client 1.50.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.38.0/RapTech-Server.exe",
+  "size": 14840832,
+  "sha256": "5bf91972e9985245385e665e72f76b7b4a5ac6ae8d810211293ce341c7e1a75b"
 }
