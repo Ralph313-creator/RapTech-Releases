@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.39.0",
+  "version": "1.40.0",
   "released": "2026-10-30",
-  "notes": "On the Accounts page, click a customer's row to open their panel (password, curfew, ban, delete), the same as clicking a computer; the Options button is gone. Free session is no longer given from an account; give it from the computer's panel instead. Goes with client 1.50.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.39.0/RapTech-Server.exe",
-  "size": 14839296,
-  "sha256": "38a0869c731110a3c22d470717f8d405ebdafaf261792513783c933609f1090f"
+  "notes": "New on the Client page: Blocked content, to switch the floor's porn watch on or off and add your own blocked words and apps to watch. Goes with client 1.51.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.40.0/RapTech-Server.exe",
+  "size": 14841344,
+  "sha256": "0070cc24e945614b26f23b6319cf5895ae5b5cf076b201790b862d65b5a72c94"
 }
