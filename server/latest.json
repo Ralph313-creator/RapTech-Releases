@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.41.0",
+  "version": "1.41.1",
   "released": "2026-10-30",
-  "notes": "New on the Client page: RapTech button menu, to pick what a right-click on the RapTech button shows on every PC (admin tools off by default). Blocked content now shows the built-in word list and the browsers always watched. Goes with client 1.52.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.41.0/RapTech-Server.exe",
-  "size": 14844928,
-  "sha256": "d546930c1ecee07ff94963679d173a1126d0f93b07165a881e8fb04637714d33"
+  "notes": "Blocked content on the Client page: the built-in blocked words and the watched browsers are now an editable list you can delete from, add to, or reset. Goes with client 1.52.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.41.1/RapTech-Server.exe",
+  "size": 14845440,
+  "sha256": "69abc4574763e1e29d1ea505378117737175c18d76a86b4535be205a19f96111"
 }
