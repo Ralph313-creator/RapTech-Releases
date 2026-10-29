@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.50.2",
+  "version": "1.51.0",
   "released": "2026-10-30",
-  "notes": "On Windows 11 the RapTech button in the Start button's place no longer covers the taskbar's top line, and it is the same colour as the taskbar instead of a lighter box. Goes with counter 1.38.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.2/RapTech.exe",
-  "size": 16739840,
-  "sha256": "8eeba1a5c78a8d83a461915e1947641aaae1ca1d06addaeb4b33b600c6bc12c6",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.2/systemRunTime.exe",
+  "notes": "On a PC with security on, a browser tab whose title has a porn site name or a sexual word (English or Tagalog) is closed, only that tab, and the customer is told why on the timer. Apps the shop adds to the watch are closed whole. Not while staff are signed in, and not on the counter PC. Set it on the counter's Client page under Blocked content. Goes with counter 1.40.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.51.0/RapTech.exe",
+  "size": 16763904,
+  "sha256": "9b87a1b9796d23223d9f53e803d91d28569e750e834e67d9f679251aaf772f32",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.51.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "77d7364ef4d80f6495a1c3aa571ffab4e2585aed8b9b71c26fb7a38449fcf930"
+  "helperSha256": "b9f534e76d23af37201fc4a1c157a8e753e367243c45ffa183e1acb3389736a7"
 }
