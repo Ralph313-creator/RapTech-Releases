@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.40.0",
+  "version": "1.41.0",
   "released": "2026-10-30",
-  "notes": "New on the Client page: Blocked content, to switch the floor's porn watch on or off and add your own blocked words and apps to watch. Goes with client 1.51.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.40.0/RapTech-Server.exe",
-  "size": 14841344,
-  "sha256": "0070cc24e945614b26f23b6319cf5895ae5b5cf076b201790b862d65b5a72c94"
+  "notes": "New on the Client page: RapTech button menu, to pick what a right-click on the RapTech button shows on every PC (admin tools off by default). Blocked content now shows the built-in word list and the browsers always watched. Goes with client 1.52.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.41.0/RapTech-Server.exe",
+  "size": 14844928,
+  "sha256": "d546930c1ecee07ff94963679d173a1126d0f93b07165a881e8fb04637714d33"
 }
