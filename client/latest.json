@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.52.1",
+  "version": "1.53.0",
   "released": "2026-10-30",
-  "notes": "The taskbar comes back over the RapTech menu after Alt+Tab out of a fullscreen game. The blocked words and watched browsers are now an editable list: delete a word to unblock it, delete a browser to stop watching it, or reset to the built-in list. The PC's log is kept in RapTech-client.log in the temp folder. Goes with counter 1.41.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.1/RapTech.exe",
+  "notes": "The counter no longer lets computers in by hand. A new computer joins by itself while Allow new computers to join is ticked on the counter (Settings, Remove a computer), and the waiting note on this computer now says so. Goes with counter 1.42.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.0/RapTech.exe",
   "size": 16786944,
-  "sha256": "2912ce04c5f14ccfb12a319a5dd3a330da943aa2a0bfbd109e09044343d7cb7e",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.52.1/systemRunTime.exe",
+  "sha256": "f7d4d137da0add5656cce4cd908b1f03009171d434e250793033c025fb8718d6",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "1637437adea873039fd3cb88268926af969bbdf50572436bcc3825b759e521d1"
+  "helperSha256": "b2b8ed8d2d22afa754f83af1cf4f1c041e5360989ed9d04928a6a42664e5583e"
 }
