@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.50.1",
-  "released": "2026-10-29",
-  "notes": "The taskbar now comes back over the launcher after Alt+Tab out of a fullscreen game, the way it does over the Windows desktop. Goes with counter 1.37.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.1/RapTech.exe",
-  "size": 16740864,
-  "sha256": "9795cb13d44e072769beae7856b96812c9f4c735343ec1c645b225db21698304",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.1/systemRunTime.exe",
+  "version": "1.50.2",
+  "released": "2026-10-30",
+  "notes": "On Windows 11 the RapTech button in the Start button's place no longer covers the taskbar's top line, and it is the same colour as the taskbar instead of a lighter box. Goes with counter 1.38.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.2/RapTech.exe",
+  "size": 16739840,
+  "sha256": "8eeba1a5c78a8d83a461915e1947641aaae1ca1d06addaeb4b33b600c6bc12c6",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.50.2/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "8a469278f70e2a6b01e8b36ff46a883184619a5adbeb6e5d46a69a8a746d7407"
+  "helperSha256": "77d7364ef4d80f6495a1c3aa571ffab4e2585aed8b9b71c26fb7a38449fcf930"
 }
