@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.53.0",
+  "version": "1.53.1",
   "released": "2026-10-30",
-  "notes": "The counter no longer lets computers in by hand. A new computer joins by itself while Allow new computers to join is ticked on the counter (Settings, Remove a computer), and the waiting note on this computer now says so. Goes with counter 1.42.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.0/RapTech.exe",
-  "size": 16786944,
-  "sha256": "f7d4d137da0add5656cce4cd908b1f03009171d434e250793033c025fb8718d6",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.0/systemRunTime.exe",
+  "notes": "Fix: the terminal's log file now gets its lines on shop PCs (it stayed empty), and it notes what the taskbar is doing when a customer Alt+Tabs from a fullscreen game to the RapTech menu, so the missing taskbar can be tracked down. Goes with counter 1.42.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.1/RapTech.exe",
+  "size": 16809984,
+  "sha256": "a7243196c7ab449c8b5f92c43fc7630f7dc28c03e7377214623d5b1bbebab699",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.1/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "b2b8ed8d2d22afa754f83af1cf4f1c041e5360989ed9d04928a6a42664e5583e"
+  "helperSha256": "c94e7305e1cba70c83c3de02305bb8662de16c6aeaa75bab39d0352d0c4f3879"
 }
