@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.53.1",
+  "version": "1.53.2",
   "released": "2026-10-30",
-  "notes": "Fix: the terminal's log file now gets its lines on shop PCs (it stayed empty), and it notes what the taskbar is doing when a customer Alt+Tabs from a fullscreen game to the RapTech menu, so the missing taskbar can be tracked down. Goes with counter 1.42.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.1/RapTech.exe",
-  "size": 16809984,
-  "sha256": "a7243196c7ab449c8b5f92c43fc7630f7dc28c03e7377214623d5b1bbebab699",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.1/systemRunTime.exe",
+  "notes": "Fix: after Alt+Tab from a fullscreen game straight to the RapTech menu, the taskbar comes back as it does over the desktop (Windows is told the menu is never a fullscreen window). The lock screen still covers the taskbar. Goes with counter 1.42.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.2/RapTech.exe",
+  "size": 16811520,
+  "sha256": "248c4cc49b81f9df134250e58150db743bd0badc4779695b013f6091e2273bde",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.2/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "c94e7305e1cba70c83c3de02305bb8662de16c6aeaa75bab39d0352d0c4f3879"
+  "helperSha256": "d4e73c7b29b7d969ad1715c847ac0a76ce4f780e2af3c29ed0b9e158b486bdb5"
 }
