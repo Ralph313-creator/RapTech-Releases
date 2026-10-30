@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.53.2",
+  "version": "1.53.3",
   "released": "2026-10-30",
-  "notes": "Fix: after Alt+Tab from a fullscreen game straight to the RapTech menu, the taskbar comes back as it does over the desktop (Windows is told the menu is never a fullscreen window). The lock screen still covers the taskbar. Goes with counter 1.42.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.2/RapTech.exe",
-  "size": 16811520,
-  "sha256": "248c4cc49b81f9df134250e58150db743bd0badc4779695b013f6091e2273bde",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.2/systemRunTime.exe",
+  "notes": "Fix: Alt+Tab from a fullscreen game straight to the RapTech menu now brings the taskbar back, the same as going through Chrome first. The menu comes up over the game as an ordinary window instead of an always-on-top one, which kept Windows in its fullscreen mode. Goes with counter 1.42.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.3/RapTech.exe",
+  "size": 16813568,
+  "sha256": "6007753cfefef30420f76429cb3948a3f371fc8e062d3c5f363635a62e4765bd",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.3/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "d4e73c7b29b7d969ad1715c847ac0a76ce4f780e2af3c29ed0b9e158b486bdb5"
+  "helperSha256": "4b73a78e66467632d0f9a817e95b18d95566c3b8a520dcaada1b5dd1f3813383"
 }
