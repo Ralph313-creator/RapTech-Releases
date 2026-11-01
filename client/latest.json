@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.53.4",
-  "released": "2026-10-30",
-  "notes": "Tidy-up of 1.53.3: the fix that brings the taskbar back after Alt+Tab from a fullscreen game stays, and the earlier tries that did not fix it are taken out. The terminal also writes far fewer lines to its log on each Alt+Tab. Goes with counter 1.42.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.4/RapTech.exe",
-  "size": 16792576,
-  "sha256": "877050e23030950bc2eb14a00ea74b0c48bc547f3b4e230d2731a8fd8edf3b0e",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.53.4/systemRunTime.exe",
+  "version": "1.54.0",
+  "released": "2026-11-01",
+  "notes": "Your phone gets a Telegram message whenever somebody opens the RapTech menu on this PC with the password. With a counter it comes from the counter's bot (needs counter 1.43.0); on its own, from this PC's bot. Wrong passwords send nothing.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.54.0/RapTech.exe",
+  "size": 16796160,
+  "sha256": "7ca367b933b643fda9fd5d67e567e72fdf245dc7c25464dff6d29101f1573f7c",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.54.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "9546b2a564e291a73056068e3e0809aad18ad9d149e6024fbff4b9c38ee56166"
+  "helperSha256": "170b6c62da6a707f3eda502c5879d6ad0456fec7f82bd397cd24bfde237100cf"
 }
