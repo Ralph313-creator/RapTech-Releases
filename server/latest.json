@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.42.0",
-  "released": "2026-10-30",
-  "notes": "The Computers page no longer shows computers asking to join with Let it in and Not mine. Allow new computers to join (Settings, Remove a computer) is now the only way a computer gets in: while it is ticked, waiting and new computers join by themselves. A waiting computer is listed under Remove a computer until then. Goes with terminal 1.53.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.42.0/RapTech-Server.exe",
-  "size": 14840832,
-  "sha256": "30338e65f190bbb3f4723ac18deda9a692299ca9164946c19f3ee4e437ced98e"
+  "version": "1.43.0",
+  "released": "2026-11-01",
+  "notes": "Your phone gets a Telegram message on every successful sign-in: to this dashboard (who, and from which address) and to the RapTech menu on any computer (with client 1.54.0). Wrong passwords send nothing.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.43.0/RapTech-Server.exe",
+  "size": 14846464,
+  "sha256": "67109f056c23be74796e5f773fe4bbcb5ef612a5602804231e6cea22e61e4da1"
 }
