@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.43.0",
-  "released": "2026-11-01",
-  "notes": "Your phone gets a Telegram message on every successful sign-in: to this dashboard (who, and from which address) and to the RapTech menu on any computer (with client 1.54.0). Wrong passwords send nothing.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.43.0/RapTech-Server.exe",
-  "size": 14846464,
-  "sha256": "67109f056c23be74796e5f773fe4bbcb5ef612a5602804231e6cea22e61e4da1"
+  "version": "1.44.0",
+  "released": "2026-11-03",
+  "notes": "A computer that is switched off is now greyed out on the Overview and Computers pages and can't be clicked, so nothing is sent to a PC that isn't listening; it comes back the moment the PC reports in. Goes with client 1.54.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.0/RapTech-Server.exe",
+  "size": 14846976,
+  "sha256": "10ae2fb25f2aece41f285f236d577774bcc880cb32f9ae6841ca7e9a7e700397"
 }
