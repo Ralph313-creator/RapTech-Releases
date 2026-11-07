@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.54.0",
-  "released": "2026-11-01",
-  "notes": "Your phone gets a Telegram message whenever somebody opens the RapTech menu on this PC with the password. With a counter it comes from the counter's bot (needs counter 1.43.0); on its own, from this PC's bot. Wrong passwords send nothing.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.54.0/RapTech.exe",
-  "size": 16796160,
-  "sha256": "7ca367b933b643fda9fd5d67e567e72fdf245dc7c25464dff6d29101f1573f7c",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.54.0/systemRunTime.exe",
+  "version": "1.55.0",
+  "released": "2026-11-07",
+  "notes": "A power button on the launcher's top bar: the customer picks Shut down or Restart on a card that asks first, and is signed out with their saves kept. It refuses while coins are still being counted. Goes with counter 1.44.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.55.0/RapTech.exe",
+  "size": 16801792,
+  "sha256": "b6864056c92ad946c18aa0e2d1e228b5bb4746a12376d3838ec653ef9d41c7ad",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.55.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "170b6c62da6a707f3eda502c5879d6ad0456fec7f82bd397cd24bfde237100cf"
+  "helperSha256": "12be4b3d2702e41f2be5870f2eb6c4fe09f34fa13cbaf050f830395b50992594"
 }
