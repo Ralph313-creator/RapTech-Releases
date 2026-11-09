@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.44.1",
-  "released": "2026-11-06",
-  "notes": "A computer still waiting to join no longer shows anywhere on the counter. With Allow new computers to join ticked it joins by itself and appears at once; with it off it stays out of sight. Goes with client 1.54.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.1/RapTech-Server.exe",
+  "version": "1.44.2",
+  "released": "2026-11-10",
+  "notes": "The RapTech button menu on the Client page now uses the same names as the terminal's new right-click panel. Goes with client 1.57.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.2/RapTech-Server.exe",
   "size": 14846976,
-  "sha256": "a53a1f43469dbf71934c611d9396bcc34e12e90d6cd182fd822e254c61751093"
+  "sha256": "c3ec523908d5bbb91ba3b3d7cd8b7e74eabff7b1373f5ed96b9d1c359b54491c"
 }
