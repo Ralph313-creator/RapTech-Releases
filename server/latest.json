@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.44.2",
+  "version": "1.44.3",
   "released": "2026-11-10",
-  "notes": "The RapTech button menu on the Client page now uses the same names as the terminal's new right-click panel. Goes with client 1.57.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.2/RapTech-Server.exe",
+  "notes": "The RapTech button menu on the Client page now says Start panel and Show Menu, and explains that the apps come from each PC's Windows Start pins. Goes with client 1.58.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.3/RapTech-Server.exe",
   "size": 14846976,
-  "sha256": "c3ec523908d5bbb91ba3b3d7cd8b7e74eabff7b1373f5ed96b9d1c359b54491c"
+  "sha256": "7a89d926c1cf8e0326f3f96dfd01c8ad1503f4ef49b911da64d768dc243e63d6"
 }
