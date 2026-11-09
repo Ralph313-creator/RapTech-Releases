@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.56.0",
-  "released": "2026-11-07",
-  "notes": "Multi instance is now off for every program unless the shop ticks it, browsers and Office included: pressing an app that is already open brings its window back instead of opening another copy. The Games page box is renamed \"Multi instance\". Goes with counter 1.44.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.56.0/RapTech.exe",
-  "size": 16802816,
-  "sha256": "0bbb8d2c6d4c70ee2fb6ff56ea6bff7a4961cf264dae5f9cfa6c42066bedb4a8",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.56.0/systemRunTime.exe",
+  "version": "1.57.0",
+  "released": "2026-11-10",
+  "notes": "Right-clicking the RapTech button now opens a Start-style panel in the launcher's colours: a Show RapTech Menu button, the PC name and time left, the shop's own apps, Windows links, Windows tools, and Shut down with Restart. The cog opens the operator panel behind the password. A new Start menu tab in the operator panel chooses what is listed, and the RapTech button switch moved there from Security. Goes with counter 1.44.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.57.0/RapTech.exe",
+  "size": 16869376,
+  "sha256": "9de418edacd367fd918773a74ee2383a1020843cd6197514ba81f4cb9833c708",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.57.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "cd7525518ea423d01d6624f3f1118819f1b1e5142a207e716a3ceae708a00e17"
+  "helperSha256": "38d2072ad305eb5637d332f4cbf97ce383b4ace82f0a5698d430b1d87cee04fb"
 }
