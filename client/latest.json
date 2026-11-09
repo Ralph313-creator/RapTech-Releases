@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "released": "2026-11-10",
-  "notes": "Right-clicking the RapTech button now opens a Start-style panel in the launcher's colours: a Show RapTech Menu button, the PC name and time left, the shop's own apps, Windows links, Windows tools, and Shut down with Restart. The cog opens the operator panel behind the password. A new Start menu tab in the operator panel chooses what is listed, and the RapTech button switch moved there from Security. Goes with counter 1.44.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.57.0/RapTech.exe",
-  "size": 16869376,
-  "sha256": "9de418edacd367fd918773a74ee2383a1020843cd6197514ba81f4cb9833c708",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.57.0/systemRunTime.exe",
+  "notes": "A left-click on the RapTech button now opens the Start panel and a right-click opens the menu. The panel's big button is now called Show Menu. The panel's apps are whatever is pinned in Windows Start on that PC, so the app ticks are gone from the Start menu tab. On a PC with the panel, the power and cog buttons are off the top of the menu. Restart and Shut down on the panel now wait for coins to be counted. Goes with counter 1.44.3.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.58.0/RapTech.exe",
+  "size": 16911872,
+  "sha256": "e9048ddd6f9664c347772ff5de81b59967a80738cc9a95b56e657d2bbe2b0195",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.58.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "38d2072ad305eb5637d332f4cbf97ce383b4ace82f0a5698d430b1d87cee04fb"
+  "helperSha256": "f91ba79cbcdd5df4f253e408c4dca9378e780b2687dfc289613140bc22a6a310"
 }
