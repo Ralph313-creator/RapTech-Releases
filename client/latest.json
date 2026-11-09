@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.60.0",
+  "version": "1.61.0",
   "released": "2026-11-10",
-  "notes": "The RapTech button and Start panel are now on whenever RapTech is running, on every PC, locked down or not, and the on/off tick is gone. Staff open the real Windows Start from the panel's Windows Start row. Pinned apps open with no time on the clock on a PC that is not locked down or with staff signed in. Fixes the panel sometimes closing by itself right after opening. Goes with counter 1.44.3.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.60.0/RapTech.exe",
-  "size": 16913408,
-  "sha256": "9105b51bdea06f2b74f34067a4d28929c532dd1c9af2196c6915638aa05e0a35",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.60.0/systemRunTime.exe",
+  "notes": "Shut down and Restart are now always on the Start panel, and the tick for them is gone. The power and cog buttons are off the top of the menu on every PC. A better fix for the panel closing by itself right after opening. Goes with counter 1.44.4.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.61.0/RapTech.exe",
+  "size": 16907776,
+  "sha256": "94e7a718079219162adff368a1888cfa4e980d6dbae088dc7945df37dd4649b6",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.61.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "6e5d00dfd01d456df3d941120e6f178b5e004367eba1664ab52c9a5c3a9f3439"
+  "helperSha256": "fb6723480184010e68e0842bb57610f773a010aff8042f3ddfee29a608c26c25"
 }
