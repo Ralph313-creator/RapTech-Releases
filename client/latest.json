@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.61.0",
+  "version": "1.61.1",
   "released": "2026-11-10",
-  "notes": "Shut down and Restart are now always on the Start panel, and the tick for them is gone. The power and cog buttons are off the top of the menu on every PC. A better fix for the panel closing by itself right after opening. Goes with counter 1.44.4.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.61.0/RapTech.exe",
+  "notes": "The Windows key no longer opens the real Windows Start on Windows 11. A lone press now opens the RapTech Start panel, and shortcuts such as Win+R still work. Win+L may no longer lock Windows on a PC running RapTech. Goes with counter 1.44.4.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.61.1/RapTech.exe",
   "size": 16907776,
-  "sha256": "94e7a718079219162adff368a1888cfa4e980d6dbae088dc7945df37dd4649b6",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.61.0/systemRunTime.exe",
+  "sha256": "481eba0a0b68cc9142182ce406b2c48ab708748be158268b75eec9f05ba9e7f3",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.61.1/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "fb6723480184010e68e0842bb57610f773a010aff8042f3ddfee29a608c26c25"
+  "helperSha256": "d128489937cbae486fe5c67439299429a5c596f5a8edff0ed55642bb5b94978c"
 }
