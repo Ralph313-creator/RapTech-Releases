@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.44.3",
+  "version": "1.44.4",
   "released": "2026-11-10",
-  "notes": "The RapTech button menu on the Client page now says Start panel and Show Menu, and explains that the apps come from each PC's Windows Start pins. Goes with client 1.58.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.3/RapTech-Server.exe",
+  "notes": "The Shut down or restart tick is gone from the RapTech button menu on the Client page, because that row is now always on the panel. Goes with client 1.61.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.4/RapTech-Server.exe",
   "size": 14846976,
-  "sha256": "7a89d926c1cf8e0326f3f96dfd01c8ad1503f4ef49b911da64d768dc243e63d6"
+  "sha256": "622eff872bfe19ce7db0d9deaa8618564fdf1c943e1a6622e757532a6036cf73"
 }
