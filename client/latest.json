@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.58.0",
+  "version": "1.59.0",
   "released": "2026-11-10",
-  "notes": "A left-click on the RapTech button now opens the Start panel and a right-click opens the menu. The panel's big button is now called Show Menu. The panel's apps are whatever is pinned in Windows Start on that PC, so the app ticks are gone from the Start menu tab. On a PC with the panel, the power and cog buttons are off the top of the menu. Restart and Shut down on the panel now wait for coins to be counted. Goes with counter 1.44.3.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.58.0/RapTech.exe",
-  "size": 16911872,
-  "sha256": "e9048ddd6f9664c347772ff5de81b59967a80738cc9a95b56e657d2bbe2b0195",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.58.0/systemRunTime.exe",
+  "notes": "The Windows key and Ctrl+Esc now open the Start panel, the same as a left-click on the RapTech button, and pressing either again closes it. During a fullscreen game they still bring the RapTech menu. Goes with counter 1.44.3.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.59.0/RapTech.exe",
+  "size": 16913920,
+  "sha256": "4095ad6efc7c60ecaa1293b7fb8cbd7645dff3158392373b21f7529259e7b918",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.59.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "f91ba79cbcdd5df4f253e408c4dca9378e780b2687dfc289613140bc22a6a310"
+  "helperSha256": "6d765c320d32a1da9b81fa2fd32c733878fc3b401a6113fdfc8110c51ac74ebe"
 }
