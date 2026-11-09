@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.59.0",
+  "version": "1.60.0",
   "released": "2026-11-10",
-  "notes": "The Windows key and Ctrl+Esc now open the Start panel, the same as a left-click on the RapTech button, and pressing either again closes it. During a fullscreen game they still bring the RapTech menu. Goes with counter 1.44.3.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.59.0/RapTech.exe",
-  "size": 16913920,
-  "sha256": "4095ad6efc7c60ecaa1293b7fb8cbd7645dff3158392373b21f7529259e7b918",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.59.0/systemRunTime.exe",
+  "notes": "The RapTech button and Start panel are now on whenever RapTech is running, on every PC, locked down or not, and the on/off tick is gone. Staff open the real Windows Start from the panel's Windows Start row. Pinned apps open with no time on the clock on a PC that is not locked down or with staff signed in. Fixes the panel sometimes closing by itself right after opening. Goes with counter 1.44.3.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.60.0/RapTech.exe",
+  "size": 16913408,
+  "sha256": "9105b51bdea06f2b74f34067a4d28929c532dd1c9af2196c6915638aa05e0a35",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.60.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "6d765c320d32a1da9b81fa2fd32c733878fc3b401a6113fdfc8110c51ac74ebe"
+  "helperSha256": "6e5d00dfd01d456df3d941120e6f178b5e004367eba1664ab52c9a5c3a9f3439"
 }
