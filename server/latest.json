@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.44.5",
-  "released": "2026-11-10",
-  "notes": "The Show Menu tick is gone from the RapTech button menu settings, because terminals from 1.62.2 always show that button.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.5/RapTech-Server.exe",
-  "size": 14964736,
-  "sha256": "523ad70ab8685da0e00b040fab719689f916c872bc620821aee179e31cb801e0"
+  "version": "1.44.6",
+  "released": "2026-11-11",
+  "notes": "Books: the computer, kind and search filters on Time sales now look through every line in the period, not only the newest 500, so the list and the totals no longer come up short. Goes with client 1.64.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.44.6/RapTech-Server.exe",
+  "size": 14852608,
+  "sha256": "36fbcd203248a8f8fc6ec5782545b38621cf85f80d8ac75102a5c18e0e562ab4"
 }
