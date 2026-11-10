@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.63.0",
-  "released": "2026-11-10",
-  "notes": "The staff settings cog is back on the RapTech menu bar. A right-click on the RapTech button now brings up the RapTech menu; its Admin Settings menu is gone. Goes with counter 1.44.5.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.63.0/RapTech.exe",
-  "size": 16906752,
-  "sha256": "fbbdf79b4184a46fe2c401d6ae55cd890a05ec884e4448bc2c2da05334ef9bff",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.63.0/systemRunTime.exe",
+  "version": "1.64.0",
+  "released": "2026-11-11",
+  "notes": "The Start panel installs like StartAllBack: Install and Uninstall are on the Start menu tab, and once installed the panel stays up when RapTech is closed. Uninstall brings back Windows Start. The panel has a search box for its own apps, which the Start menu tab can hide. Goes with counter 1.44.5.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.64.0/RapTech.exe",
+  "size": 16950272,
+  "sha256": "c49098739d0919f6f4591ec4c87cee8b6be036262c7eb8bb79d29516a243c0b2",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.64.0/systemRunTime.exe",
   "helperSize": 2253312,
-  "helperSha256": "6860cde48a608a4ba3e582047528a9b3732493b04e2d6f79a9e0609f2456a5f1"
+  "helperSha256": "fb84c9774634129c983a773ecc250023b7b83df025428a5e84aa319a8353627c"
 }
