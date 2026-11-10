@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.62.2",
+  "version": "1.63.0",
   "released": "2026-11-10",
-  "notes": "The Show Menu button is now always on the Start panel, and its tick is gone from the Start menu tab.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.62.2/RapTech.exe",
-  "size": 17026048,
-  "sha256": "c49a0066617afd7e93ba11a3a8a6bfa896d6d455fa5f6091ea4ba60344642515",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.62.2/systemRunTime.exe",
-  "helperSize": 2285056,
-  "helperSha256": "804d7e34744bfb692db14c20746dea17f66ad6cbe437b1d096a7eb93df50e108"
+  "notes": "The staff settings cog is back on the RapTech menu bar. A right-click on the RapTech button now brings up the RapTech menu; its Admin Settings menu is gone. Goes with counter 1.44.5.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.63.0/RapTech.exe",
+  "size": 16906752,
+  "sha256": "fbbdf79b4184a46fe2c401d6ae55cd890a05ec884e4448bc2c2da05334ef9bff",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.63.0/systemRunTime.exe",
+  "helperSize": 2253312,
+  "helperSha256": "6860cde48a608a4ba3e582047528a9b3732493b04e2d6f79a9e0609f2456a5f1"
 }
