@@ -1,12 +1,12 @@
 {
   "product": "client",
-  "version": "1.62.0",
+  "version": "1.62.1",
   "released": "2026-11-10",
-  "notes": "The RapTech button now appears sooner at boot and covers the whole Start slot. The cog moved off the Start panel: right-click the RapTech button for Admin Settings.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.62.0/RapTech.exe",
-  "size": 17029120,
-  "sha256": "009a8f36e8c2cf6f3eb5255510db5ac0ab0179bd38dbfe4fc918abceead1c50d",
-  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.62.0/systemRunTime.exe",
+  "notes": "The Start panel shows only the PC name, without the customer time. Ticking several items quickly on the Start menu tab no longer undoes earlier ticks.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.62.1/RapTech.exe",
+  "size": 17026048,
+  "sha256": "a47e814145fbab03a40b9e6079136872c47b0e8027cb4a8a108a3398604c5583",
+  "helperUrl": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.62.1/systemRunTime.exe",
   "helperSize": 2285056,
-  "helperSha256": "1e90775ddb34684322518177226b0c9c7e8d4504cb0be6c3db652acf7141bb7e"
+  "helperSha256": "2f95a604f50a8c821e6c642ae223ef0590e2d57fbfcd85b64db48df6180a4067"
 }
