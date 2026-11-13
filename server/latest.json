@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.45.0",
-  "released": "2026-11-12",
-  "notes": "Pay stations: one coin and bill box at the counter for the whole shop. The customer picks an account or a PC on the station and pays; the counter prices it from the rate card and credits it. Let a new station in and see its latest payments under Settings > Computers and accounts > Pay stations; a payment that could not be delivered (PC off, licence hold, past the time limit) stays red until marked settled. Books shows station payments as their own kind. Goes with client 1.64.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.45.0/RapTech-Server.exe",
-  "size": 14961664,
-  "sha256": "4432babd3b3d71a4f4ebbb11fd3ad640979c65f405ba15fd2210716443e855e7"
+  "version": "1.46.0",
+  "released": "2026-11-13",
+  "notes": "Computer panel: a Chat tab beside Controls, with that PC's conversation and its unread count, so you can message a PC without going to the Chat page. Power on: an off computer's panel can switch it on over the network (Wake-on-LAN must be on in its BIOS); the counter learns each PC's network card while it is on. Pay stations: a new switch lets customers pay for a PC that is off, which the counter then switches on and gives the time once it starts (off by default; a PC that does not come on within five minutes shows as failed). Fix: a reply sent from the counter no longer shows twice in the chat. Goes with client 1.64.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.46.0/RapTech-Server.exe",
+  "size": 15005184,
+  "sha256": "b8a5d32e38bd00b4254216a3a4061769ec9b1686acb2fe32cb8800698335e2a2"
 }
