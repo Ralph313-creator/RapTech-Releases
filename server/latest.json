@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.48.0",
+  "version": "1.49.0",
   "released": "2026-11-13",
-  "notes": "Max volume has moved from the Computers card into the computer panel, under Restart and Shut down (owner and admins only). It can be set while a PC is off, and the PC takes it when it next connects. Goes with client 1.64.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.48.0/RapTech-Server.exe",
-  "size": 15005184,
-  "sha256": "f6206d223c09ef03cf2e70a9a381158dd6fa12876c4102fbc21163823848c34b"
+  "notes": "License keys are safer on Settings: a saved counter key or terminal key shows only its start and end, and you press Change key before you can paste a new one (then Save or Cancel). Remove key is its own button and asks first. Goes with client 1.64.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.49.0/RapTech-Server.exe",
+  "size": 15006208,
+  "sha256": "cf57d94c7bf36f29e4ffbdc83624b49e5bb434a962b7cac51f6cdfb71174ef31"
 }
