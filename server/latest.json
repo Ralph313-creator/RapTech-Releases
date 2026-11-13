@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.47.0",
+  "version": "1.48.0",
   "released": "2026-11-13",
-  "notes": "Settings > Client saves itself: every change goes to the computers that are on a second after you make it, so the Save and Discard buttons are gone and the bar only says Saving or Saved (or why not). Stop managing from here is removed, so a connected computer always follows the counter. Goes with client 1.64.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.47.0/RapTech-Server.exe",
+  "notes": "Max volume has moved from the Computers card into the computer panel, under Restart and Shut down (owner and admins only). It can be set while a PC is off, and the PC takes it when it next connects. Goes with client 1.64.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.48.0/RapTech-Server.exe",
   "size": 15005184,
-  "sha256": "5181e30de69d20360ba79509e2aadcfbbaa00a582a25e8282b761ee692c28f62"
+  "sha256": "f6206d223c09ef03cf2e70a9a381158dd6fa12876c4102fbc21163823848c34b"
 }
