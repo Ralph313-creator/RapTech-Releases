@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.49.0",
+  "version": "1.50.0",
   "released": "2026-11-13",
-  "notes": "License keys are safer on Settings: a saved counter key or terminal key shows only its start and end, and you press Change key before you can paste a new one (then Save or Cancel). Remove key is its own button and asks first. Goes with client 1.64.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.49.0/RapTech-Server.exe",
-  "size": 15006208,
-  "sha256": "cf57d94c7bf36f29e4ffbdc83624b49e5bb434a962b7cac51f6cdfb71174ef31"
+  "notes": "The Client page's RapTech button menu no longer lists Windows Start or Search: Windows' own Start and search stay shut on PCs with the RapTech Start panel installed. Goes with client 1.72.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.50.0/RapTech-Server.exe",
+  "size": 15005696,
+  "sha256": "fd65fa7db31e95a5bcdd7b7f5daadef1007ff9a2946db93b562032204a460957"
 }
