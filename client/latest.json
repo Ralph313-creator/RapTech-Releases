@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "1.68.0",
+  "version": "1.69.0",
   "released": "2026-11-13",
-  "notes": "Licence key on a PC's System page: a saved terminal key now shows only its start and end, and you press Change key before you can paste a new one (Cancel puts the old one back). Remove key is its own button and asks first. Both still take effect with Save changes. Only on a PC running without a counter; a PC on a counter gets its key from the counter. Goes with counter 1.49.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.68.0/RapTech.exe",
-  "size": 17052672,
-  "sha256": "200285a05ebcc1c63e9a494ef2c10a982df90c20b2d894f06b494cd676617219"
+  "notes": "RapTech uses far less memory on each PC: the launcher now draws without the graphics card (about 200 MB given back to the game, one process fewer), a protected PC no longer runs the extra Start watcher process, and opening the RapTech panel no longer starts PowerShell for a customer. Goes with counter 1.49.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.69.0/RapTech.exe",
+  "size": 17053184,
+  "sha256": "bd1923a93e93cb6750a64d1147f3de3a22c5fde589f222e929ef84d8f1ffee55"
 }
