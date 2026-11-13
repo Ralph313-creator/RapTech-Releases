@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.46.0",
+  "version": "1.47.0",
   "released": "2026-11-13",
-  "notes": "Computer panel: a Chat tab beside Controls, with that PC's conversation and its unread count, so you can message a PC without going to the Chat page. Power on: an off computer's panel can switch it on over the network (Wake-on-LAN must be on in its BIOS); the counter learns each PC's network card while it is on. Pay stations: a new switch lets customers pay for a PC that is off, which the counter then switches on and gives the time once it starts (off by default; a PC that does not come on within five minutes shows as failed). Fix: a reply sent from the counter no longer shows twice in the chat. Goes with client 1.64.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.46.0/RapTech-Server.exe",
+  "notes": "Settings > Client saves itself: every change goes to the computers that are on a second after you make it, so the Save and Discard buttons are gone and the bar only says Saving or Saved (or why not). Stop managing from here is removed, so a connected computer always follows the counter. Goes with client 1.64.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.47.0/RapTech-Server.exe",
   "size": 15005184,
-  "sha256": "b8a5d32e38bd00b4254216a3a4061769ec9b1686acb2fe32cb8800698335e2a2"
+  "sha256": "5181e30de69d20360ba79509e2aadcfbbaa00a582a25e8282b761ee692c28f62"
 }
