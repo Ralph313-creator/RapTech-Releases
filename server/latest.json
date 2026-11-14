@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.50.0",
-  "released": "2026-11-13",
-  "notes": "The Client page's RapTech button menu no longer lists Windows Start or Search: Windows' own Start and search stay shut on PCs with the RapTech Start panel installed. Goes with client 1.72.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.50.0/RapTech-Server.exe",
-  "size": 15005696,
-  "sha256": "fd65fa7db31e95a5bcdd7b7f5daadef1007ff9a2946db93b562032204a460957"
+  "version": "1.51.0",
+  "released": "2026-11-14",
+  "notes": "The Client page no longer has the RapTech button menu: RapTech stopped replacing Windows Start. Goes with client 1.78.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.51.0/RapTech-Server.exe",
+  "size": 15003648,
+  "sha256": "bb819d29e1e28bfa7b554e894b1513916332efb287a2839ae44a3f92bf908ae5"
 }
