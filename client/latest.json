@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "1.76.0",
+  "version": "1.77.0",
   "released": "2026-11-14",
-  "notes": "The time on the clock now stays exact. Before, the countdown could lose some seconds a few times a day when the computer was busy saving or reconnecting the coin slot, so customers sometimes got a little extra time. Now a late second is caught up straight away, and saving a coin or reconnecting the coin slot no longer holds the clock. Goes with counter 1.50.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.76.0/RapTech.exe",
-  "size": 17183744,
-  "sha256": "70c5ea5111c7f33bfebb9bc624967610f70d060d24266e40e09c3700d824b705"
+  "notes": "A computer with its own coin slot now always locks when the coin slot is not found, and unlocks when it answers again. The switch for this is gone from the Lock screen page. Computers with no coin slot set, like the counter, never lock for it. The lock screen now says simply: Coin slot not found. Please call the administrator. Any time on the clock is paused, not lost. Goes with counter 1.50.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.77.0/RapTech.exe",
+  "size": 17183232,
+  "sha256": "89d9360df1074a337138aebdb22bc6738064d7b31bbb863b00324c401bb59c44"
 }
