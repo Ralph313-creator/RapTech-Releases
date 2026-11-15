@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.53.2",
+  "version": "1.54.0",
   "released": "2026-11-15",
-  "notes": "License keys: Remove key is gone from the counter key and the terminal key; Change key replaces a key. Goes with client 1.80.3.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.53.2/RapTech-Server.exe",
-  "size": 15061504,
-  "sha256": "b6ce24dab20d19bab90a43270b785cac92433a589bfadad40db37383c5e83a5c"
+  "notes": "Updates page: Update client replaces only the original RapTech.exe on the game disk; computers are never updated directly and start the new version at their next restart (\"at next restart\" on their row). A warning shows, and Update client says why, when the original RapTech.exe is not set or not found. A replaced file's old copy is kept a week, so a computer still running it is not disturbed. Goes with client 1.80.4.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.54.0/RapTech-Server.exe",
+  "size": 15053824,
+  "sha256": "88b773055b543935bf3a109aeba3a0cc1deaa4c731375205e457db180aae777c"
 }
