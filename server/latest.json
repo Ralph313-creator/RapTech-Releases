@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.56.0",
-  "released": "2026-11-15",
-  "notes": "Computers page: a PC with no CPU temperature now says why when you point at its grey — °C (PawnIO not installed, helper service not running, and so on). Goes with client 1.81.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.56.0/RapTech-Server.exe",
-  "size": 15060480,
-  "sha256": "3bd49c058b291003b0a1726de8e3e197b8ede0c26ba9b7c89b582ccabd159422"
+  "version": "1.57.0",
+  "released": "2026-11-16",
+  "notes": "Update client now also saves the PawnIO installer (PawnIO_setup.exe) beside RapTech.exe on the game disk, ready to install into the CCBoot image by hand. Monitor settings now lists the computers that read no CPU temperature, with the reason and how to fix it. Goes with client 1.82.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.57.0/RapTech-Server.exe",
+  "size": 15068672,
+  "sha256": "2e84aa48c982b1768385aa9ba722e912c85de73c772dbd58ee29c9df510e9ee1"
 }
