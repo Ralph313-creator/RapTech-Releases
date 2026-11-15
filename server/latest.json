@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.55.1",
+  "version": "1.56.0",
   "released": "2026-11-15",
-  "notes": "Updates page: the two cards are named for what they update. Server update is RapTech Server, the counter (button Update server); Client update is RapTech on the computers (button Update client). Goes with client 1.80.4.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.55.1/RapTech-Server.exe",
-  "size": 15059456,
-  "sha256": "1b6cbca55355cce1678a837e050c779155d50dfae48d3cd1248f6167fe393bd7"
+  "notes": "Computers page: a PC with no CPU temperature now says why when you point at its grey — °C (PawnIO not installed, helper service not running, and so on). Goes with client 1.81.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.56.0/RapTech-Server.exe",
+  "size": 15060480,
+  "sha256": "3bd49c058b291003b0a1726de8e3e197b8ede0c26ba9b7c89b582ccabd159422"
 }
