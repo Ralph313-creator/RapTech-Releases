@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.82.0",
+  "version": "1.83.0",
   "released": "2026-11-16",
-  "notes": "A computer that updates itself now also saves the PawnIO installer (PawnIO_setup.exe) beside RapTech.exe, for you to install by hand; RapTech never runs it. PawnIO is what lets RapTech read the CPU temperature on any motherboard. Goes with counter 1.57.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.82.0/RapTech.exe",
-  "size": 16925184,
-  "sha256": "514901806b078c7644192b2bcda28639ab5a82cfda6b4774079e98d11934e993",
+  "notes": "RapTech's helper service now comes back within seconds even when it is killed and set to Disabled at the same time: a Windows task, run as the system, puts it back the moment that happens and at every start. The Startup tab says Instant repair is on. Goes with counter 1.57.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.83.0/RapTech.exe",
+  "size": 16946688,
+  "sha256": "4e7393a3b4a40da7d444afe4ba14cc0fb2c82317d23216597e468feb6af99d85",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
