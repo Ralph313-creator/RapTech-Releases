@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "1.80.4",
+  "version": "1.81.0",
   "released": "2026-11-15",
-  "notes": "The RapTech menu draws on the graphics chip again, so scrolling, panels and effects are smooth (since 1.69.0 it drew on the processor and felt laggy). It still stops drawing and saves memory whenever it is hidden or covered by a game. Goes with counter 1.53.2.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.80.4/RapTech.exe",
-  "size": 16878080,
-  "sha256": "f966ee4c44cf43d3af2dc4052c71e6d42529452d2f0e34c51d3188e2260adfe3"
+  "notes": "The Computers page can now show every PC's CPU temperature on any motherboard, once PawnIO (pawnio.eu) is installed on the PC; without it, Gigabyte boards still show theirs. RapTech's helper service does the reading, so it works on the floor where RapTech is not an administrator, and the Temperatures switch on the counter stops it. Goes with counter 1.56.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.81.0/RapTech.exe",
+  "size": 16920576,
+  "sha256": "46c2c1bd2ebf6b06f457849672268a3f1be97f77ad68f3c194fdd93990007da1"
 }
