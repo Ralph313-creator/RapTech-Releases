@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.51.0",
-  "released": "2026-11-14",
-  "notes": "The Client page no longer has the RapTech button menu: RapTech stopped replacing Windows Start. Goes with client 1.78.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.51.0/RapTech-Server.exe",
-  "size": 15003648,
-  "sha256": "bb819d29e1e28bfa7b554e894b1513916332efb287a2839ae44a3f92bf908ae5"
+  "version": "1.52.0",
+  "released": "2026-11-15",
+  "notes": "Update the computers from the dashboard: each computer's panel shows its RapTech version with an Update button, and Settings > Updates > Computers lists every computer with Update all. Keep computers up to date (on by default) updates any computer that connects on an older RapTech, keeping whoever is on it. The counter can also keep RapTech.exe on the game disk on the newest version (Find it, Replace), so diskless PCs start on it after every restart. Computers need client 1.80.0 once to understand updates from the counter.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.52.0/RapTech-Server.exe",
+  "size": 15060992,
+  "sha256": "44007bb0d114c6752b86e79489e8be590ddd4f49257b087534c3a5414aea3369"
 }
