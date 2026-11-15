@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "1.78.0",
-  "released": "2026-11-14",
-  "notes": "RapTech no longer replaces Windows Start. The RapTech button, its Start panel, Start.exe and the Start menu tab are gone, and Windows' own Start, Search, search box and Windows key work again on every PC. Goes with counter 1.51.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.78.0/RapTech.exe",
-  "size": 16871424,
-  "sha256": "0647c54d369de5375df3a1d45465472f812779dff619cac767449884869e391f"
+  "version": "1.79.0",
+  "released": "2026-11-15",
+  "notes": "A coin is now always paid at the rate for the whole coin. Add now is greyed out as \"Counting coin…\" while a coin is still going in, so pressing it can no longer split a ₱20 into smaller, cheaper credits; Add now on the in-game card waits for the coin to finish. Goes with counter 1.51.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.79.0/RapTech.exe",
+  "size": 16869888,
+  "sha256": "85b73bbb3044c2de99c4c4d5adb07420d46655a82ec6a0658a9dad0512aa95fd"
 }
