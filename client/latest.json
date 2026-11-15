@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "1.80.1",
+  "version": "1.80.2",
   "released": "2026-11-15",
-  "notes": "The systemRunTime service comes back at once when it is killed (it used to wait 5, 15 and 30 seconds), and RapTech retries starting it within seconds instead of up to 5 minutes. Goes with counter 1.53.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.80.1/RapTech.exe",
-  "size": 16877056,
-  "sha256": "59a0bb88b2ed23cfe80b8f6dde95772c230bad361bdb67455786a70591554de0"
+  "notes": "The coin card over a game no longer offers Add now while a coin is still being counted: it says \"Counting the coin…\" and shows Add now about a second after the coin is in, as the RapTech menu does. Goes with counter 1.53.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.80.2/RapTech.exe",
+  "size": 16878080,
+  "sha256": "65c4fbd80e36bd12540ae207fc857a1ef5e39e72742c58d87fd9fa876fe4813c"
 }
