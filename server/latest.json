@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.53.1",
+  "version": "1.53.2",
   "released": "2026-11-15",
-  "notes": "Updates is now its own page in the sidebar, after Settings (the counter's update, the computers and RapTech.exe on the game disk); Settings no longer has an Updates section. A computer no longer shows as up to date before the newest release is known. Goes with client 1.80.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.53.1/RapTech-Server.exe",
-  "size": 15062016,
-  "sha256": "2ccf70f1e4f4f2673baf581d1c6e25294e301cfe1ad0c0d580feb5f5d706507f"
+  "notes": "License keys: Remove key is gone from the counter key and the terminal key; Change key replaces a key. Goes with client 1.80.3.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.53.2/RapTech-Server.exe",
+  "size": 15061504,
+  "sha256": "b6ce24dab20d19bab90a43270b785cac92433a589bfadad40db37383c5e83a5c"
 }
