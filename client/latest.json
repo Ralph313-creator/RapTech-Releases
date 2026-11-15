@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.83.0",
+  "version": "1.83.1",
   "released": "2026-11-16",
-  "notes": "RapTech's helper service now comes back within seconds even when it is killed and set to Disabled at the same time: a Windows task, run as the system, puts it back the moment that happens and at every start. The Startup tab says Instant repair is on. Goes with counter 1.57.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.83.0/RapTech.exe",
-  "size": 16946688,
-  "sha256": "4e7393a3b4a40da7d444afe4ba14cc0fb2c82317d23216597e468feb6af99d85",
+  "notes": "Fixes only. RapTech's helper now records every repair it makes, and if one fails, which step failed: the Startup tab shows the last repair, and Windows' event log has the detail. Goes with counter 1.57.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.83.1/RapTech.exe",
+  "size": 16950272,
+  "sha256": "3c651a17c3ce4d45f68e743f9ddb54a1b76b00945a7c1c9a5c980de25c101bd4",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
