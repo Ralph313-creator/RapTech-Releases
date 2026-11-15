@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.54.0",
+  "version": "1.55.0",
   "released": "2026-11-15",
-  "notes": "Updates page: Update client replaces only the original RapTech.exe on the game disk; computers are never updated directly and start the new version at their next restart (\"at next restart\" on their row). A warning shows, and Update client says why, when the original RapTech.exe is not set or not found. A replaced file's old copy is kept a week, so a computer still running it is not disturbed. Goes with client 1.80.4.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.54.0/RapTech-Server.exe",
-  "size": 15053824,
-  "sha256": "88b773055b543935bf3a109aeba3a0cc1deaa4c731375205e457db180aae777c"
+  "notes": "Old copies of the original RapTech.exe on the game disk are deleted as soon as every computer reports the newest version (a week at most otherwise). A computer that is off and last seen on an older version keeps them until it starts on the new one. The Updates page says how many are kept. Goes with client 1.80.4.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.55.0/RapTech-Server.exe",
+  "size": 15059456,
+  "sha256": "1af09845e54768d59d1a0e8d7b7ea8b412fa4bed23ef26ac0ebc0c4a362f828b"
 }
