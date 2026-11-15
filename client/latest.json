@@ -1,9 +1,9 @@
 {
   "product": "client",
-  "version": "1.80.2",
+  "version": "1.80.3",
   "released": "2026-11-15",
-  "notes": "The coin card over a game no longer offers Add now while a coin is still being counted: it says \"Counting the coin…\" and shows Add now about a second after the coin is in, as the RapTech menu does. Goes with counter 1.53.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.80.2/RapTech.exe",
+  "notes": "License key: Remove key is gone; Change key replaces the key, and leaving the new key's box empty keeps the saved one. Goes with counter 1.53.2.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.80.3/RapTech.exe",
   "size": 16878080,
-  "sha256": "65c4fbd80e36bd12540ae207fc857a1ef5e39e72742c58d87fd9fa876fe4813c"
+  "sha256": "167c63c5a40fe11e9d3ce0281cf8e532196f728bdb4bdac5e6dd2f46a28f77ff"
 }
