@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "released": "2026-11-16",
-  "notes": "Update client now also saves the PawnIO installer (PawnIO_setup.exe) beside RapTech.exe on the game disk, ready to install into the CCBoot image by hand. Monitor settings now lists the computers that read no CPU temperature, with the reason and how to fix it. Goes with client 1.82.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.57.0/RapTech-Server.exe",
-  "size": 15068672,
-  "sha256": "2e84aa48c982b1768385aa9ba722e912c85de73c772dbd58ee29c9df510e9ee1"
+  "notes": "Monitor settings: a Telegram alert when a computer's CPU gets too hot (85 °C by default, adjustable or Off; one message per hot spell and one when it cools back down), and a new tick to keep reading temperatures on computers nobody is using. Goes with client 1.84.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.58.0/RapTech-Server.exe",
+  "size": 15074304,
+  "sha256": "a62fe14c1cead4e9b91bd24f85a67234f2e000cafe8640205c363d415417ab53"
 }
