@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.83.1",
+  "version": "1.84.0",
   "released": "2026-11-16",
-  "notes": "Fixes only. RapTech's helper now records every repair it makes, and if one fails, which step failed: the Startup tab shows the last repair, and Windows' event log has the detail. Goes with counter 1.57.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.83.1/RapTech.exe",
-  "size": 16950272,
-  "sha256": "3c651a17c3ce4d45f68e743f9ddb54a1b76b00945a7c1c9a5c980de25c101bd4",
+  "notes": "Empty computers can keep reading their temperature, and a frozen-clock session (free use, curfew, coin lock) keeps its CPU temperature showing. Goes with counter 1.58.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.84.0/RapTech.exe",
+  "size": 16951808,
+  "sha256": "24c9950f59b465f36fc4e4e98b1beea9b6ea6487fd7bce8fdd94ddcbdd8903c4",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
