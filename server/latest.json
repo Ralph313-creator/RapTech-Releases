@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.58.0",
+  "version": "1.59.0",
   "released": "2026-11-16",
-  "notes": "Monitor settings: a Telegram alert when a computer's CPU gets too hot (85 °C by default, adjustable or Off; one message per hot spell and one when it cools back down), and a new tick to keep reading temperatures on computers nobody is using. Goes with client 1.84.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.58.0/RapTech-Server.exe",
-  "size": 15074304,
-  "sha256": "a62fe14c1cead4e9b91bd24f85a67234f2e000cafe8640205c363d415417ab53"
+  "notes": "Temperatures on now also reads computers on the lock screen with nobody using them (every 15 seconds), so the CPU heat alert covers them too. The separate tick for it is gone. Computers need client 1.84.0. Goes with client 1.84.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.59.0/RapTech-Server.exe",
+  "size": 15073280,
+  "sha256": "117f13b4cbe57681bb18daa6f31b5d5599e2eb013a0e776ae3a181eae52498bc"
 }
