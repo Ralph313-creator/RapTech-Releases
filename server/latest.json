@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.59.1",
-  "released": "2026-11-16",
-  "notes": "Monitor settings: the PawnIO notes no longer mention CCBoot and now fit any diskless software, and computers with their own disk. Goes with client 1.84.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.59.1/RapTech-Server.exe",
-  "size": 15073280,
-  "sha256": "c383c345f57e9c92b37381a5f7f329cdbdc44340a4cff3aaaab2a8ff7afb13e7"
+  "version": "1.60.0",
+  "released": "2026-11-17",
+  "notes": "New server blades icon on the window, taskbar, tray and desktop; Telegram, license, updater and mail now share one implementation with the terminal. Goes with client 1.85.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.60.0/RapTech-Server.exe",
+  "size": 15095808,
+  "sha256": "e817b650a4ffda62aa68eea0679d496455f269cb9317e8be497827df2d74bc9b"
 }
