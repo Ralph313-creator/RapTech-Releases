@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.84.0",
-  "released": "2026-11-16",
-  "notes": "Empty computers can keep reading their temperature, and a frozen-clock session (free use, curfew, coin lock) keeps its CPU temperature showing. Goes with counter 1.58.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.84.0/RapTech.exe",
-  "size": 16951808,
-  "sha256": "24c9950f59b465f36fc4e4e98b1beea9b6ea6487fd7bce8fdd94ddcbdd8903c4",
+  "version": "1.85.0",
+  "released": "2026-11-17",
+  "notes": "New bento menu icon on the window, taskbar, tray and desktop; Telegram, license, updater and mail now share one implementation with the counter. Goes with counter 1.60.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.85.0/RapTech.exe",
+  "size": 16991744,
+  "sha256": "de6f68a3f93c6077bbe833a0ceb402a455748f8d08b76d9c82b32e70cbf854ac",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
