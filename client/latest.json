@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.87.1",
+  "version": "1.88.0",
   "released": "2026-11-19",
-  "notes": "Trigger timer speed adjustment only when the RapTech menu is covered by a fullscreen or maximised window along with resource saving (and the corner timer is hidden or folded into its tab), keeping real-time countdown while the RapTech menu is still visible behind a smaller window.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.87.1/RapTech.exe",
-  "size": 16993280,
-  "sha256": "a73dd149252abf9e244ba29f730612c0c0fe83487610ce9f24583f55250cae90",
+  "notes": "Coin tester adds a Clear this coin button to discard a mistaken drop without resetting the debounce or exact streak. Restores the Add now button on the coin meter (disabled while counting, clickable once done) and an editable bundle window defaulting to 30 seconds. Goes with counter 1.62.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.88.0/RapTech.exe",
+  "size": 16997376,
+  "sha256": "70b903e6e6fff58042c31dbb72b64fe7b0a7466065d39219c69938b1e51e9211",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
