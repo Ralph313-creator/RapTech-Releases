@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.60.0",
-  "released": "2026-11-17",
-  "notes": "New server blades icon on the window, taskbar, tray and desktop; Telegram, license, updater and mail now share one implementation with the terminal. Goes with client 1.85.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.60.0/RapTech-Server.exe",
-  "size": 15095808,
-  "sha256": "e817b650a4ffda62aa68eea0679d496455f269cb9317e8be497827df2d74bc9b"
+  "version": "1.61.0",
+  "released": "2026-11-19",
+  "notes": "Remove the Bundle window setting from Coins and pricing so terminals auto-bundle each coin as soon as all of its signals are counted.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.61.0/RapTech-Server.exe",
+  "size": 15095296,
+  "sha256": "7ba14ab6e7f42cb7f40fa35c6c4d08d8f8bbe4fd3aff8da84fe8b84d9e865e2b"
 }
