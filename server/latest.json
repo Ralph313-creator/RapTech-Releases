@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.62.0",
+  "version": "1.62.1",
   "released": "2026-11-19",
-  "notes": "Restores the Bundle window setting (default 30 seconds, 0-60s) on Client settings so shops can set how long coins wait before auto-adding time. Goes with client 1.88.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.62.0/RapTech-Server.exe",
+  "notes": "Caps Timer speed adjust at 35% max on Client settings. Goes with client 1.88.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.62.1/RapTech-Server.exe",
   "size": 15095808,
-  "sha256": "032c43d51efca0debe52f378b11295a11b325f421e385ea79ce44e6038191222"
+  "sha256": "19306b7f9329860e315beac4d020f832e5ead051f5a5b739d04e44c3d3315ce0"
 }
