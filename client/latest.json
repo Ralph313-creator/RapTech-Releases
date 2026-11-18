@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.88.0",
+  "version": "1.88.1",
   "released": "2026-11-19",
-  "notes": "Coin tester adds a Clear this coin button to discard a mistaken drop without resetting the debounce or exact streak. Restores the Add now button on the coin meter (disabled while counting, clickable once done) and an editable bundle window defaulting to 30 seconds. Goes with counter 1.62.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.88.0/RapTech.exe",
+  "notes": "Caps timer speed adjustment at 35% max. Goes with counter 1.62.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.88.1/RapTech.exe",
   "size": 16997376,
-  "sha256": "70b903e6e6fff58042c31dbb72b64fe7b0a7466065d39219c69938b1e51e9211",
+  "sha256": "49d322561e5785dbfea31a920b4dc40da5f25e93a284658727b122d8313b4705",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
