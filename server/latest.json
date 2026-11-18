@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.61.0",
+  "version": "1.61.1",
   "released": "2026-11-19",
-  "notes": "Remove the Bundle window setting from Coins and pricing so terminals auto-bundle each coin as soon as all of its signals are counted.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.61.0/RapTech-Server.exe",
-  "size": 15095296,
-  "sha256": "7ba14ab6e7f42cb7f40fa35c6c4d08d8f8bbe4fd3aff8da84fe8b84d9e865e2b"
+  "notes": "Note on Client settings that Timer speed adjust applies while the timer is out of view.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.61.1/RapTech-Server.exe",
+  "size": 15095808,
+  "sha256": "8d29fed640b3d8b5c0458dc57486e331142f36817ccbdb82c425ba7ab15cd633"
 }
