@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.85.1",
-  "released": "2026-11-17",
-  "notes": "Fix blank operator panel after AdminPanel module split.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.85.1/RapTech.exe",
-  "size": 16991744,
-  "sha256": "ce2276b2ded7b9763832ee409cff6d2db1bca499b8c418c09a305102df91cedc",
+  "version": "1.86.0",
+  "released": "2026-11-19",
+  "notes": "Remove the bundle window setting and auto-bundle coins into time as soon as all pulses of the coin are counted.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.86.0/RapTech.exe",
+  "size": 16990720,
+  "sha256": "b3c9b8d5f75fa93dfebf4fb6379454e6e72193c40f75bf3da06839656dbb8a5a",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
