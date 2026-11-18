@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.87.0",
+  "version": "1.87.1",
   "released": "2026-11-19",
-  "notes": "Trigger timer speed adjustment only while the customer is not in view of the timer (away from the RapTech menu and with the corner timer hidden or folded into its edge tab).",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.87.0/RapTech.exe",
+  "notes": "Trigger timer speed adjustment only when the RapTech menu is covered by a fullscreen or maximised window along with resource saving (and the corner timer is hidden or folded into its tab), keeping real-time countdown while the RapTech menu is still visible behind a smaller window.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.87.1/RapTech.exe",
   "size": 16993280,
-  "sha256": "22575cd6260b03dc3a5383a8c66a45883e51a83d88512aefee30948831106678",
+  "sha256": "a73dd149252abf9e244ba29f730612c0c0fe83487610ce9f24583f55250cae90",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
