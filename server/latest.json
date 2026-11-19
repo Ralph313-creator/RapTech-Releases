@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.62.1",
-  "released": "2026-11-19",
-  "notes": "Caps Timer speed adjust at 35% max on Client settings. Goes with client 1.88.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.62.1/RapTech-Server.exe",
-  "size": 15095808,
-  "sha256": "19306b7f9329860e315beac4d020f832e5ead051f5a5b739d04e44c3d3315ce0"
+  "version": "1.63.0",
+  "released": "2026-11-20",
+  "notes": "User accounts Spent now resets or subtracts when records are deleted on Books -> Time sales, Total Time removed from Accounts, and the counter dashboard now displays a configurable shop logo (defaulting to the RAPTECH Solutions logo). Goes with client 1.88.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.63.0/RapTech-Server.exe",
+  "size": 15472128,
+  "sha256": "f09ef037724c0a5a8a06c052bfb0897b05cc56036572a171f1586981198d8568"
 }
