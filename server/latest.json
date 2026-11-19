@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.63.1",
+  "version": "1.63.2",
   "released": "2026-11-20",
-  "notes": "Restores the styled shop name beside/under the counter shop logo (Chakra Petch display wordmark) and renames the sidebar subtitle to Server. Goes with client 1.88.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.63.1/RapTech-Server.exe",
-  "size": 15484416,
-  "sha256": "e68b38c73cb2dd616625ebbd0ce3273fc43a9027bae28f2ea3d9ce694931e1ba"
+  "notes": "Removes the counter shop logo image and upload, keeping the styled Chakra Petch shop name and Server badge. Goes with client 1.88.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.63.2/RapTech-Server.exe",
+  "size": 15113216,
+  "sha256": "07a5a83df1854e8bc0098ccd3232b66c128cf0d9cdad4ce684a8a4461cbea9d2"
 }
