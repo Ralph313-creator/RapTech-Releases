@@ -1,9 +1,9 @@
 {
   "product": "station",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "released": "2026-11-21",
-  "notes": "Renames the home screen payment buttons to Account and Guest.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.3/raptech-station-armv7",
-  "size": 11153182,
-  "sha256": "b72ea15c2e21942605bbf66507071a39ed8d0c316a7cac41226ed867da0fc721"
+  "notes": "Supports headless (no-display) remote PC claims from PC lock screens with fast 500ms live coin reporting and exclusive per-station locking. Goes with counter 1.67.0 and client 1.90.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.5.0/raptech-station-armv7",
+  "size": 11220200,
+  "sha256": "5244bc750b66b90b08f773ba7deb0bce25e7f711d430ca291fe0e12c8a17e920"
 }
