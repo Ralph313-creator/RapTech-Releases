@@ -1,9 +1,9 @@
 {
   "product": "station",
-  "version": "0.4.0",
-  "released": "2026-11-20",
-  "notes": "Pay Station admin gateway on port 80 and 5-tap kiosk entry, 40-pin Orange Pi One header pin selector, safe live hardware tester, Netplan network config, browser switch, and built-in GitHub updater.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.0/raptech-station-armv7",
+  "version": "0.4.1",
+  "released": "2026-11-21",
+  "notes": "Adds a gear icon on the Pay Station kiosk top bar for direct PIN-protected access to the admin panel (hidden while a customer has money in).",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.1/raptech-station-armv7",
   "size": 11153202,
-  "sha256": "5473f356d3540c8843234d027b19e270094d77e523594209727e75abd9d048de"
+  "sha256": "215d7b418aebfbc2947eb181d5a54ea7e3f18710def4d8285b340bbd818996a2"
 }
