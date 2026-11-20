@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.67.0",
+  "version": "1.68.0",
   "released": "2026-11-21",
-  "notes": "Adds owner toggle on Settings -> Pay stations to show a Pay via Pay Station button on PC lock screens (for headless Orange Pi boxes), with per-station exclusive locks, multi-station picker support, and live Release turn controls. Goes with client 1.90.0 and station 0.5.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.67.0/RapTech-Server.exe",
-  "size": 15172096,
-  "sha256": "635eaaafcbdb86fd6d158c1193c095c96fcb527e6d150a775e1f35a62a343c8e"
+  "notes": "Moves Pay stations out of Settings -> Counter into its own Pay stations tab beside Counter and Client, and updates the lock-pay toggle label to match Insert Coin on client 1.92.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.68.0/RapTech-Server.exe",
+  "size": 15172608,
+  "sha256": "328477d97e7656fbbf61d52d8df4a6c1d3a949ef15bb109771850f4da8f220a6"
 }
