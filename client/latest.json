@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.91.0",
+  "version": "1.92.0",
   "released": "2026-11-21",
-  "notes": "Adds a Pay via Pay Station button and modal to the menu account panel (with a live badge while a turn is open) so signed-in and walk-in customers can add time mid-session, and fixes Pay Station claims for accounts with custom display names. Goes with counter 1.67.0 and station 0.5.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.91.0/RapTech.exe",
-  "size": 17027584,
-  "sha256": "204eb60c896bbb8f76542d9aea80c50a80b6961404b8a73c74fe2315907e967b",
+  "notes": "Renames the Pay Station button to Insert Coin on the lock screen and menu account panel, auto-picks the first free Pay Station (falling through to the next if two PCs click at once), and hides the passive Insert a coin box when Pay Station is on. Goes with counter 1.67.0 and station 0.5.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.92.0/RapTech.exe",
+  "size": 17026048,
+  "sha256": "1a00019a1429acabe729681a8b646f80bee71f9faa577175babba050211812ab",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
