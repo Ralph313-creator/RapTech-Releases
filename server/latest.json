@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.63.2",
+  "version": "1.64.0",
   "released": "2026-11-20",
-  "notes": "Removes the counter shop logo image and upload, keeping the styled Chakra Petch shop name and Server badge. Goes with client 1.88.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.63.2/RapTech-Server.exe",
-  "size": 15113216,
-  "sha256": "07a5a83df1854e8bc0098ccd3232b66c128cf0d9cdad4ce684a8a4461cbea9d2"
+  "notes": "Adds a Full / Fit all toggle on the Overview that fits every computer card onto one display without scrolling, showing only the PC name, time left, and CPU/GPU temperatures. Goes with client 1.88.1.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.64.0/RapTech-Server.exe",
+  "size": 15122944,
+  "sha256": "169c03df442533211c9aadfea4626cbc18537e05572510eea395e7fc92ac81d4"
 }
