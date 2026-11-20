@@ -1,9 +1,9 @@
 {
   "product": "station",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "released": "2026-11-21",
-  "notes": "Adds a gear icon on the Pay Station kiosk top bar for direct PIN-protected access to the admin panel (hidden while a customer has money in).",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.1/raptech-station-armv7",
-  "size": 11153202,
-  "sha256": "215d7b418aebfbc2947eb181d5a54ea7e3f18710def4d8285b340bbd818996a2"
+  "notes": "Renames home buttons to Paid by account / Paid by computer and sets COG_PLATFORM_WL_VIEW_FULLSCREEN=1 so cog fits 1024x600 screens without clipping the right edge.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.2/raptech-station-armv7",
+  "size": 11153182,
+  "sha256": "8fb4242b0acd5013187da42ac54a06201d3957b6d128cbc7722cc74629f435f5"
 }
