@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.68.0",
+  "version": "1.69.0",
   "released": "2026-11-21",
-  "notes": "Moves Pay stations out of Settings -> Counter into its own Pay stations tab beside Counter and Client, and updates the lock-pay toggle label to match Insert Coin on client 1.92.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.68.0/RapTech-Server.exe",
-  "size": 15172608,
-  "sha256": "328477d97e7656fbbf61d52d8df4a6c1d3a949ef15bb109771850f4da8f220a6"
+  "notes": "Adds Noise Lock shop-wide settings (off by default, loudness threshold, shouting hold time, quiet countdown) on Settings -> Client and per-PC Noise threshold override (or Off for this PC) in each computer's drawer. Goes with client 1.93.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.69.0/RapTech-Server.exe",
+  "size": 15172096,
+  "sha256": "15ab8a0432cbb9addaed2014004093c93b53febb30f627b67191aebd0dde4dc0"
 }
