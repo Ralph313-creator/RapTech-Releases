@@ -2,7 +2,7 @@
   "product": "server",
   "version": "1.66.0",
   "released": "2026-11-20",
-  "notes": "Sends",
+  "notes": "Sends each in-use PC's remaining time and open-time status to pay stations so customers can see current clocks on the computer cards. Goes with client 1.89.0.",
   "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.66.0/RapTech-Server.exe",
   "size": 15123968,
   "sha256": "1edd96dad75fd0fa8fda20e52e2052f50b129277201ec838cfd87684e18aa260"
