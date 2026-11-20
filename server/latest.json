@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.65.0",
+  "version": "1.66.0",
   "released": "2026-11-20",
-  "notes": "Shows an Accelerate caption on Overview computer cards (both Full and Fit all) when a computer's timer speed acceleration is active. Goes with client 1.89.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.65.0/RapTech-Server.exe",
+  "notes": "Sends",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.66.0/RapTech-Server.exe",
   "size": 15123968,
-  "sha256": "b8d99ea999268fb2fa99b0b745a81cecd2c78f5f711c43d51ddda4285faa1513"
+  "sha256": "1edd96dad75fd0fa8fda20e52e2052f50b129277201ec838cfd87684e18aa260"
 }
