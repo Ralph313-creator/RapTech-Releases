@@ -1,9 +1,9 @@
 {
   "product": "station",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "released": "2026-11-21",
-  "notes": "Supports headless (no-display) remote PC claims from PC lock screens with fast 500ms live coin reporting and exclusive per-station locking. Goes with counter 1.67.0 and client 1.90.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.5.0/raptech-station-armv7",
-  "size": 11220200,
-  "sha256": "5244bc750b66b90b08f773ba7deb0bce25e7f711d430ca291fe0e12c8a17e920"
+  "notes": "Adds Stop Kiosk (Linux Terminal) and Start Kiosk Screen buttons with live kiosk running status on the Pay Station Admin Kiosk & System tab so admins can drop to tty1 terminal while raptech-station keeps running.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.6.0/raptech-station-armv7",
+  "size": 11220800,
+  "sha256": "49adbe1677c0e1d3f7f77c3d039a25e98797a9f0166689146802bfb93132dc75"
 }
