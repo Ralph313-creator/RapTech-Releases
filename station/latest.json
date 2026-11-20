@@ -1,9 +1,9 @@
 {
   "product": "station",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "released": "2026-11-21",
-  "notes": "Renames home buttons to Paid by account / Paid by computer and sets COG_PLATFORM_WL_VIEW_FULLSCREEN=1 so cog fits 1024x600 screens without clipping the right edge.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.2/raptech-station-armv7",
+  "notes": "Renames the home screen payment buttons to Account and Guest.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/station-v0.4.3/raptech-station-armv7",
   "size": 11153182,
-  "sha256": "8fb4242b0acd5013187da42ac54a06201d3957b6d128cbc7722cc74629f435f5"
+  "sha256": "b72ea15c2e21942605bbf66507071a39ed8d0c316a7cac41226ed867da0fc721"
 }
