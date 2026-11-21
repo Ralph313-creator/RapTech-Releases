@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.69.1",
-  "released": "2026-11-21",
-  "notes": "Updates the Noise Lock setting description on Settings -> Client to reflect that the unlock countdown resets if the player keeps shouting. Goes with client 1.93.1.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.69.1/RapTech-Server.exe",
-  "size": 15172096,
-  "sha256": "a16750bb5d95872318ac0de9364e7969aa61dea677d7f8b4665b823f6d381487"
+  "version": "1.70.0",
+  "released": "2026-11-22",
+  "notes": "Removed the Noise Lock microphone setting from Client settings and the computer drawer. Goes with client 1.94.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.70.0/RapTech-Server.exe",
+  "size": 15172608,
+  "sha256": "c2627994786fa351f6f268ea039c8ded137b19e94c2293a8ddd48a4fe5e7255f"
 }
