@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.95.0",
+  "version": "1.95.1",
   "released": "2026-11-27",
-  "notes": "New edge-to-edge poster glass cards and three wallpaper-first launcher layouts (Bottom Dock, Left Glass Rail, and Floating HUD & Deck) replacing Shelf, Modern, and Arcade. Goes with counter 1.70.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.95.0/RapTech.exe",
-  "size": 16967168,
-  "sha256": "402c1ccb12d1710ef56c93fd074fcc7f6ab0a9a0d42bb53c6cfa43e5fb70374e",
+  "notes": "Fixed game grid cards squishing on long lists so overflowing grids scroll smoothly at full 3:4 poster size, matched Store cards to the same edge-to-edge poster glass design, and fixed compact HUD search placeholder clipping. Goes with counter 1.70.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.95.1/RapTech.exe",
+  "size": 16972288,
+  "sha256": "c3ddd4f831ee2a8d725daaac2ba16520ec80aeeb247bc2c7edd454502ab5dffb",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
