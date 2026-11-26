@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.94.0",
-  "released": "2026-11-22",
-  "notes": "Removed the Noise Lock microphone feature and its System settings. Goes with counter 1.70.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.94.0/RapTech.exe",
-  "size": 17026048,
-  "sha256": "05e61f1087824f8f5814aba3a56b537bcf7b22f6f05675f4ea65bafd14dce59d",
+  "version": "1.95.0",
+  "released": "2026-11-27",
+  "notes": "New edge-to-edge poster glass cards and three wallpaper-first launcher layouts (Bottom Dock, Left Glass Rail, and Floating HUD & Deck) replacing Shelf, Modern, and Arcade. Goes with counter 1.70.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.95.0/RapTech.exe",
+  "size": 16967168,
+  "sha256": "402c1ccb12d1710ef56c93fd074fcc7f6ab0a9a0d42bb53c6cfa43e5fb70374e",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
