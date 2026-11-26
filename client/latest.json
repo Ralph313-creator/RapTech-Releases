@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.95.1",
+  "version": "1.96.0",
   "released": "2026-11-27",
-  "notes": "Fixed game grid cards squishing on long lists so overflowing grids scroll smoothly at full 3:4 poster size, matched Store cards to the same edge-to-edge poster glass design, and fixed compact HUD search placeholder clipping. Goes with counter 1.70.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.95.1/RapTech.exe",
-  "size": 16972288,
-  "sha256": "c3ddd4f831ee2a8d725daaac2ba16520ec80aeeb247bc2c7edd454502ab5dffb",
+  "notes": "Added a compact Save & Load launch popup (Create account or Play as guest for walk-ins; Load my game or Play as guest for signed-in users) with instant sign-in and load-on-demand so guest play never overwrites saved progress. Goes with counter 1.70.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.96.0/RapTech.exe",
+  "size": 16987136,
+  "sha256": "28a80ed87edf6b8559d6b0b045751c4ac34ed424402c5d29b3cd723175a068bf",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
