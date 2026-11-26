@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.96.0",
+  "version": "1.96.1",
   "released": "2026-11-27",
-  "notes": "Added a compact Save & Load launch popup (Create account or Play as guest for walk-ins; Load my game or Play as guest for signed-in users) with instant sign-in and load-on-demand so guest play never overwrites saved progress. Goes with counter 1.70.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.96.0/RapTech.exe",
+  "notes": "Renamed All Games labels to All Apps across all launcher layouts. Goes with counter 1.70.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.96.1/RapTech.exe",
   "size": 16987136,
-  "sha256": "28a80ed87edf6b8559d6b0b045751c4ac34ed424402c5d29b3cd723175a068bf",
+  "sha256": "a9a5acdbfdf74666d3ba0d606ae0d0764b30db25741e8f1f3357adba8acbde7d",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
