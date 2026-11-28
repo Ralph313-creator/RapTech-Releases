@@ -1,9 +1,9 @@
 {
   "product": "server",
-  "version": "1.70.0",
-  "released": "2026-11-22",
-  "notes": "Removed the Noise Lock microphone setting from Client settings and the computer drawer. Goes with client 1.94.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.70.0/RapTech-Server.exe",
+  "version": "1.71.0",
+  "released": "2026-11-28",
+  "notes": "Added a dedicated sortable Status column to the Accounts table so banned, no curfew, and free session badges sit cleanly in their own column instead of beside the account name. Goes with client 1.99.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/server-v1.71.0/RapTech-Server.exe",
   "size": 15172608,
-  "sha256": "c2627994786fa351f6f268ea039c8ded137b19e94c2293a8ddd48a4fe5e7255f"
+  "sha256": "a979f709182c3909fbfc6bcee374c704c43e807fd7a6ffe359106f7dd5e23b0f"
 }
