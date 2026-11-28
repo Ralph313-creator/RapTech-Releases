@@ -1,11 +1,11 @@
 {
   "product": "client",
-  "version": "1.98.0",
+  "version": "1.98.1",
   "released": "2026-11-28",
-  "notes": "Added per-path Load as soon as the customer signs in toggles in Save & Load (plus standalone sign-in folder support) so Steam userdata and launcher login credentials load immediately at login while large game saves stay load-on-demand; removed the old Launch icon option and upgraded the card Play badge to a frosted-glass Play medallion. Goes with counter 1.70.0.",
-  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.98.0/RapTech.exe",
-  "size": 17034752,
-  "sha256": "a2b26c5b2ab8b2a333ab0ab766976fb1521d69b6afce0e5c6814eb3de12a4655",
+  "notes": "Replaced the card hover Play circle with a pure minimal luminous Play mark (no bubble or ring) across Grid, Bottom Dock, and Floating HUD. Goes with counter 1.70.0.",
+  "url": "https://github.com/Ralph313-creator/RapTech-Releases/releases/download/client-v1.98.1/RapTech.exe",
+  "size": 17034240,
+  "sha256": "b8a022d06983be7d25ad1f0bbb1badf11d9e847e3b33e08b165ffd7c316a6945",
   "pawnio": {
     "url": "https://github.com/namazso/PawnIO.Setup/releases/download/2.2.0/PawnIO_setup.exe",
     "size": 3410960,
